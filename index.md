@@ -1,6 +1,6 @@
 ---
 layout: home
-image: /assets/images/garthmyl-oaks.jpg
+image: /assets/images/B_I0A4784 copy (1).jpeg
 sub_title: "Composer"
 ---
 
