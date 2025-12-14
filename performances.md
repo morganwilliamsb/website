@@ -5,13 +5,14 @@ layout: page
 
 ## Coming Up
 22 June 2025
-: Trying to Use Words – for harp & dancer World premiere by Jenna Vergeynst & Myrthe Bokelmann
+: Trying to Use Words – for harp & dancer, World premiere by Jenna Vergeynst & Myrthe Bokelmann
 
 22 June 2025
-: Ildio – for twelve players World premiere by the Birmingham Contemporary Music Group.
+: Ildio – for twelve players, World premiere by the Birmingham Contemporary Music Group.
 
 25 May 2026
-: Gormod – for oboe, basset clarinet, euphonium, viola & cello Performance by Collegium Novum Zürich 
+: Gormod – for oboe, basset clarinet, euphonium, viola & cello
+Performance by Collegium Novum Zürich 
 
 -------------------------------------------------------------------------------
 
