@@ -12,7 +12,7 @@ Bethan Morgan-Williams (1992-) is a composer who writes quirky, rhythmically-int
 
 
 
-## News and Events
+## News and Events  <br>
 
 
 Bethan was recently made an associate member of the Royal Northern College of Music (ARNCM). 
