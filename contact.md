@@ -2,5 +2,6 @@
 title: "Contact"
 layout: page
 ---
-# Email
-: morganwilliamsbethan@gmail.com
+## Email
+
+morganwilliamsbethan@gmail.com
