@@ -8,7 +8,7 @@ sub_title: "Composer"
 
 ---
 
-Bethan Morgan-Williams (1992-) is a composer who writes quirky, rhythmically-intricate music, finding motivation in the apogee of musical performance. Described as “marvellously oblique and obscure” [5against4] while being “rooted in something ancient and folky” [The Telegraph], Bethan’s music plays with expectation and variance. Her “interest music” seeks to sustain attention and surprise, reflecting the restless energy of 21st-century life. Central to her approach is _material-drift_  – a process of transformation through which an initial idea evolves to become more like itself. Driven by curiosity and the urge to discover what she could not simply imagine, Bethan collaborates closely with performers in the creation of her work.
+Bethan Morgan-Williams (1992-) is a composer who writes quirky, rhythmically-intricate music, finding motivation in the apogee of musical performance. Described as “marvellously oblique and obscure” [5against4] while being “rooted in something ancient and folky” [The Telegraph], Bethan’s music plays with expectation and variance. Her “interest music” seeks to sustain attention and surprise, reflecting the restless energy of 21st-century life. Driven by curiosity and the urge to discover what she could not simply imagine, Bethan collaborates closely with performers in the creation of her work. Central to her approach is _material-drift_  – a process of transformation through which an initial idea evolves to become more like itself.
 
 
 
