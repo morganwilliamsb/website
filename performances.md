@@ -15,6 +15,9 @@ layout: page
 ## Past Events
 
 
+21 September 2025
+: Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann, Plein Theater (Amsterdam, NL).
+
 28 July 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann, Akademie für Tonkunst (Darmstadt, DE).
 
@@ -31,7 +34,7 @@ layout: page
 : Performance of _Ffarwel i Uli_ by Hannah Weirich, WDR Funkhaus (Köln, DE).
 
 January 2025
-: LSO Panufnik Composers Scheme Panel (London, UK).
+: Panel Member for LSO Panufnik Composers Scheme (London, UK).
 
 2 December 2024
 : Performance of _Ffarwel i Uli_ by Hannah Weirich, Koncertna Dvorana GŠ (Koper, SI). 
