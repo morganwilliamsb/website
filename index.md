@@ -14,10 +14,6 @@ Bethan Morgan-Williams (1992-) is a composer who writes quirky, rhythmically-int
 
 ## News and Events
 
-<p>
 Bethan was recently made an associate member of the Royal Northern College of Music (ARNCM).
-</p>
 
-<p>
 Upcoming performances include the world premiere of _Digon!_ by ensemble mosaik in January, and a performance of _Gormod_ by Collegium Novum Zürich in May. Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell trumpet).
-</p>
