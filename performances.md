@@ -6,11 +6,11 @@ layout: page
 ## Coming Up
 17 January 2026
 : World premiere of _Digon!_ by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin. 
-: About/tickets: [Ultraschall Berlin concert page](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/)
+: About/tickets: [ensemble mosaik // Enno Poppe @ Radialsystem](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/)
 
 28 May 2026
 : Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich. 
-: About/tickets: [Collegium Novum Zürich concert page](https://cnz.ch/ausschweifen) 
+: About/tickets: [Collegium Novum Zürich @ Brunnenhof](https://cnz.ch/ausschweifen) 
 
 -------------------------------------------------------------------------------
 
