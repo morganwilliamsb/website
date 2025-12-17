@@ -18,6 +18,11 @@ Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell t
 
 ## COMING UP
 
-- **17 January 2026** — World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
-- **15 February 2026** — World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
-- **28 May 2026** — Performance of [_Gormod_](https://cnz.ch/ausschweifen) by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
+- **17 January 2026**
+- World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
+- 
+- **15 February 2026**
+- World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
+- 
+- **28 May 2026**
+- Performance of [_Gormod_](https://cnz.ch/ausschweifen) by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
