@@ -1,7 +1,7 @@
 ---
 title: "Biography"
 layout: about
-image: /assets/images/town-hill.jpg
+image: /assets/images/B_I0A5012.png
 ---
 
 ## Full Bio
