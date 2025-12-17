@@ -19,9 +19,6 @@ For reasons of register and colour, the violin’s lowest string is tuned a whol
 **Performance / Recording**  
 Performed by:
 Nathan Isaac (clarinet), Nick Francis (violin) & Gwydion Rhys (piano).
-Recorded as part of the NYOW75 celebrations — a specially recorded digital concert of new music marking the 75th anniversary of the National Youth Orchestra of Wales.  
-Recorded at St David’s Hall, Cardiff, in 2021.
-
-The concert features ten chamber groups performing ten world premieres by Welsh composers, bringing together current members and alumni of NYOW.
+Recorded as part of the NYOW75 celebrations — a specially recorded digital concert of new music marking the 75th anniversary of the National Youth Orchestra of Wales – at St David’s Hall, Cardiff (UK).
 
 [Watch the performance](https://www.youtube.com/watch?v=z1r4ODByMX0&list=PLXCAwLBtyYgN7c7ckDcMRbWt2rh7Wy1pl&index=20)
