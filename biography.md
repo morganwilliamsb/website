@@ -20,13 +20,7 @@ Bethan Morgan-Williams (b. 1992) is a composer whose work explores the interplay
 
 ## EDUCATION
 
-Bethan is the current holder of the Jonathan Harvey Scholarship and is pursuing a PhD at the University of Huddersfield, researching collaborative methodologies in composition.
-
-From 2017 to 2019, Bethan pursued a Masters degree in composition at the Royal Conservatory of The Hague, where she was awarded a scholarship to study with Diderik Wagenaar, Peter Adriaansz, Calliope Tsoupaki, and Richard Barrett; she also continued her violin studies with Theodora Geraets. Her research focussed on the listeners' experience of elapsed duration during music listening.
-
-In 2010, Bethan gained a scholarship to study composition with Gary Carpenter and violin with Leland Chen at the Royal Northern College of Music.
-
-In 2001, at the age of nine, Bethan was offered a scholarship to Wells Cathedral School, one of the five specialist music schools in Great Britain, where she studied violin with Catherine Lord, viola with Philip Dukes, piano with Olena Shvetsova, and jazz piano with Dhevdhas Nair.
+Bethan is the current holder of the Jonathan Harvey Scholarship and is pursuing a PhD at the University of Huddersfield, researching collaborative methodologies in composition. From 2017 to 2019, Bethan pursued a Masters degree in composition at the Royal Conservatory of The Hague, where she was awarded a scholarship to study with Diderik Wagenaar, Peter Adriaansz, Calliope Tsoupaki, and Richard Barrett; she also continued her violin studies with Theodora Geraets. Her research focussed on the listeners' experience of elapsed duration during music listening. In 2010, Bethan gained a scholarship to study composition with Gary Carpenter and violin with Leland Chen at the Royal Northern College of Music. In 2001, at the age of nine, Bethan was offered a scholarship to Wells Cathedral School, one of the five specialist music schools in Great Britain, where she studied violin with Catherine Lord, viola with Philip Dukes, piano with Olena Shvetsova, and jazz piano with Dhevdhas Nair.
 
 ## AND BEFORE?
 
