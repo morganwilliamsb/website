@@ -24,6 +24,12 @@ layout: page
 21 September 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Plein Theater (Amsterdam, NL).
 
+2 August 2025
+: Workshop (_Skyppan_) with Carl Rosman, Lichtenbergschule (Darmstadt, DE).
+
+1 August 2025
+: Performance of _Trying to Use Words_ by Jenna Vergeynst @ Akademie für Tonkunst (Darmstadt, DE).
+
 28 July 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Akademie für Tonkunst (Darmstadt, DE).
 
