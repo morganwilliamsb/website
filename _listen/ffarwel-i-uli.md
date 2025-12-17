@@ -1,5 +1,5 @@
 ---
-title: "Farewell Uli"
+title: "Ffarwel i Uli – World Premiere"
 layout: collection
 date: 2023-08-30
 ---
