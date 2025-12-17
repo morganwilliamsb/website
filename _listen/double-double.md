@@ -1,5 +1,5 @@
 ---
-title: "Double Double"
+title: "Double Double – Live"
 layout: collection
 date: 2020-02-10
 ---
