@@ -16,7 +16,7 @@ Based on lines from *Salt*, a recent collection of poems by David Harsent, *Voic
 
 **Performance / Recording**  
 Performed by Psappha:  
-Conrad Marshall (flute), Benjamin Powell (piano), Tim Williams (percussion), Jennifer Langridge (cello).  
+Conrad Marshall (flute), Jennifer Langridge (cello), Tim Williams (percussion), Benjamin Powell (piano).  
 Recorded live at Hallé St Peter’s, Manchester (UK), on 12 May 2022.
 
 Film production by Handel Productions.  
