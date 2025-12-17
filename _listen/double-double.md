@@ -1,5 +1,5 @@
 ---
-title: "Double Double – Live"
+title: "Double Double – World Premiere"
 layout: collection
 date: 2020-02-10
 ---
