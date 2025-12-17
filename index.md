@@ -16,7 +16,7 @@ Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell t
 
 ---
 
-## COMING UP
+## Coming up
 
 - **17 January 2026**  
   World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
