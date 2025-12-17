@@ -14,6 +14,8 @@ Are things out of control, then — or not?
 
 *Gêmdis* was written as part of the Composer Collider Europe programme for Carl Rosman and Ensemble Musikfabrik.
 
+*Programme note by Tim Rutherford-Johnson.*
+
 **Performance / Recording**  
 Performed by Carl Rosman (E-flat clarinet) with Ensemble Musikfabrik (cond. Christian Eggen).
 
