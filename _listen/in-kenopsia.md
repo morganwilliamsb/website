@@ -1,5 +1,5 @@
 ---
-title: "In Kenopsia"
+title: "In Kenopsia with Tony Boorer"
 layout: collection
 date: 2017-05-05
 ---
