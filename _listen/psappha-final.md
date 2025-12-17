@@ -6,7 +6,7 @@ date: 2022-05-12
 
 ### *Voices Go With You* (2022)
 
-*for flute, piano, percussion, and cello*
+*for flute, cello, percussion & piano*
 
 *Voices Go With You* unfolds as a tone poem in which a still, serene landscape is disrupted by restlessness and unease. States of calm and agitation coexist, negotiating a fragile balance as something darker remains concealed beneath the surface.
 
