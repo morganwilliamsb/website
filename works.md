@@ -75,7 +75,7 @@ The Turaco (2005)
 : Written for Antonella Haywood. 
 : Duration ca. 4′
 
-## CHAMBER
+## Chamber
 
 Trying to Use Words (2025)
 : Singing Harpist & Dancer
@@ -200,7 +200,7 @@ Bryanston Jig (2002)
 : First performed in August 2002 by Catherine Lord, Katie Sharp, Ben Weedon, David Heyes, Alfie Weedon & Bethan Morgan-Williams, Bryanston College (UK). 
 : Duration ca. 2′
 
-## ENSEMBLE
+## Ensemble
 
 Digon! (2025)
 : Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello.
@@ -242,7 +242,7 @@ Mirages in Pisa (2016)
 : First performed on 26 October 2016 by Ensemble 10/10 & Clark Rundell, St. George’s Hall Liverpool (UK). 
 : Duration ca. 12’
 
-## ORCHESTRA
+## Orchestra
 
 Parti Di-ffiniau (2022)
 : 3333 / 4331 / 1T 3P 1Pno 1Hp / 12.10.8.6.4
@@ -294,7 +294,7 @@ Hen Daith (2005)
 : First performed in June 2005 by the Wells Cathedral School String Ensemble & Catherine Lord, Colston Hall (Bristol, UK). 
 : Duration ca. 5’
 
-## VOCAL
+## Vocal
 
 Shilly Shally (2021)
 : Soprano & Piano
