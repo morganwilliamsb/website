@@ -1,5 +1,5 @@
 ---
-title: "Gêmdisyn: Studio"
+title: "Gêmdisyn – Studio Recording"
 layout: collection
 date: 2022-05-16
 ---
