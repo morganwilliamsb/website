@@ -13,16 +13,3 @@ Bethan Morgan-Williams (1992–) is a composer who writes quirky, rhythmically i
 Bethan's work has been commissioned and performed by leading international soloists, ensembles, and orchestras, with broadcasts across Europe and North America. She is currently pursuing a PhD at the University of Huddersfield as the holder of the Jonathan Harvey Scholarship, researching collaborative methodologies in composition, and was appointed an honorary Associate Member of the Royal Northern College of Music in 2025.
 
 Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell trumpet).
-
----
-
-## Upcoming Performances
-
-- **17 January 2026**  
-  World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
-
-- **15 February 2026**  
-  World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
-
-- **28 May 2026**  
-  Performance of [_Gormod_](https://cnz.ch/ausschweifen) by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
