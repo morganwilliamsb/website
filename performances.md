@@ -73,7 +73,7 @@ January 2025
 : Performance of _Ghost Tongues_ by Mivos Quartet, Wilhelm-Petersen-Saal @ Akademie für Tonkunst (Darmstadt, DE).
 
 11 August 2023
-: World premiere of :für Maaria: by Maaria Pulakka, Lotte Krüger and Bethan Morgan-Williams @ Wilhelm-Petersen-Saal, Akademie für Tonkunst (Darmstadt, DE).
+: World premiere of _für Maaria_ by Maaria Pulakka, Lotte Krüger and Bethan Morgan-Williams @ Wilhelm-Petersen-Saal, Akademie für Tonkunst (Darmstadt, DE).
 
 9 August 2023
 : Open Space workshop (_Skyppan_) with Carl Rosman @ Lichtenbergschule (Darmstadt, DE).
