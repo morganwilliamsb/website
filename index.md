@@ -8,7 +8,7 @@ sub_title: "Composer"
 
 ---
 
-Bethan Morgan-Williams (1992–) is a composer who writes quirky, rhythmically intricate music, finding motivation in the apogee of musical performance. Described as “[_marvellously oblique and obscure_](https://5against4.com/2018/07/16/cheltenham-music-festival-2018-quartet-premieres-berkeley-ensemble-juliana/)” while being “[_rooted in something ancient and folky_](https://www.telegraph.co.uk/music/what-to-listen-to/london-symphony-orchestra-bring-booming-sounds-tate-moderns/)”, Bethan’s music plays with expectation and variance. Her “interest music” seeks to sustain attention and surprise, reflecting the restless energy of 21st-century life. Driven by curiosity and the urge to discover what she could not simply imagine, she collaborates closely with performers in the creation of her work. Central to her approach is material-drift — a process of transformation through which an initial idea evolves to become more fully itself.
+Bethan Morgan-Williams (1992–) is a composer who writes quirky, rhythmically intricate music, finding motivation in the apogee of musical performance. Described as “[_marvellously oblique and obscure_](https://5against4.com/2018/07/16/cheltenham-music-festival-2018-quartet-premieres-berkeley-ensemble-juliana/)” while being “[_rooted in something ancient and folky_](https://www.telegraph.co.uk/music/what-to-listen-to/london-symphony-orchestra-bring-booming-sounds-tate-moderns/)”, Bethan’s music plays with expectation and variance. Her “interest music” seeks to sustain attention and surprise, reflecting the restless energy of 21st-century life. Driven by curiosity and the urge to discover what she could not simply imagine, she collaborates closely with performers in the creation of her work. Central to her approach is _material-drift_ — a process of transformation through which an initial idea evolves to become more fully itself.
 
 Bethan's work has been commissioned and performed by leading international soloists, ensembles, and orchestras, with broadcasts across Europe and North America. She is currently pursuing a PhD at the University of Huddersfield as the holder of the Jonathan Harvey Scholarship, researching collaborative methodologies in composition, and was appointed an honorary Associate Member of the Royal Northern College of Music in 2025.
 
@@ -18,11 +18,6 @@ Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell t
 
 ## COMING UP
 
-17 January 2026
-World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
-
-15 February 2026
-World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
-
-28 May 2026
-Performance of [_Gormod_](https://cnz.ch/ausschweifen) by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
+- **17 January 2026** — World premiere of [_Digon!_](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/) by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
+- **15 February 2026** — World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
+- **28 May 2026** — Performance of [_Gormod_](https://cnz.ch/ausschweifen) by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
