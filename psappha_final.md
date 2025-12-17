@@ -1,5 +1,5 @@
 ---
-title: "Psappha @ 30"
+title: "Psappha's Last Commission"
 layout: collection
 date: 2022-05-12
 ---
