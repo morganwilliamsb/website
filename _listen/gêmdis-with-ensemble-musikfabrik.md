@@ -1,5 +1,5 @@
 ---
-title: "Gêmdis with Musikfabrik"
+title: "Gêmdis with Ensemble Musikfabrik"
 layout: collection
 date: 2020-11-04
 ---
