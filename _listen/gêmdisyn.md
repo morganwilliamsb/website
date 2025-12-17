@@ -12,6 +12,8 @@ The word *Gêmdis* combines the Welsh words for “game” and “dice”. *Gêm
 
 Rather than functioning as a straightforward extraction, *Gêmdisyn* reshapes and reorders its source material, discarding some sections entirely and transforming others. While *Gêmdis* moved through multiple emotional states, *Gêmdisyn* alternates between two contrasting modes: a whimsical, skipping chatter and a fiery, unstable loss of control. A central passage of fragile harmonics and deliberately audible air sounds — marked *mechanical* — interrupts this alternation, introducing a sense of fragile clarity before the work concludes.
 
+*Programme note by Tim Rutherford-Johnson.*
+
 *Gêmdisyn* was commissioned by Ensemble Musikfabrik and written for Carl Rosman.
 
 **Performance / Recording**  
