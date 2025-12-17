@@ -4,8 +4,10 @@ layout: collection
 date: 2020-11-23
 ---
 
-A brilliant new audio-visual recording of _In the Crypt_ – an interactive piece for horn & live electronics – is now available on Youtube. Realised by the marvellous Ben Goldscheider (horn) and Pete Stollery (electronics), this is a poignant performance of a ghosting piece. It stands out from any previous rendition because of the way in which it was put together. Due to Coronavirus restrictions, Ben was unable to travel to Aberdeen for the performance and so it was agreed that he would record his part in London, and the electronics could then be overdubbed. This meant sacrificing the live manipulation of the horn but actually, it doesn’t feel like it’s missing anything… what do you think?
+A brilliant new audio-visual recording of *In the Crypt* — an interactive piece for horn and live electronics — is now available on YouTube. Realised by the marvellous Ben Goldscheider (horn) and Pete Stollery (electronics), this is a poignant performance of a “ghosting” piece. It stands out from previous renditions because of the way it was assembled.
 
-_In the Crypt_ (2015) was recorded by Ben Goldscheider & Pete Stollery for Sound Festival 2020, Aberdeen.
+Due to coronavirus restrictions, Ben was unable to travel to Aberdeen for the performance. It was therefore agreed that he would record his part in London, with the electronics overdubbed afterwards. This meant sacrificing the live manipulation of the horn, but the result feels unexpectedly complete — perhaps even gaining something in the process.
 
-Photo credit: Kaupo Kikkas
+*In the Crypt* (2015) was recorded by Ben Goldscheider and Pete Stollery for Sound Festival 2020, Aberdeen.
+
+*Photo credit: Kaupo Kikkas*
