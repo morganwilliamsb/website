@@ -1,5 +1,5 @@
 ---
-title: "Liaisons"
+title: "Liaisons with Jenna Vergeynst"
 layout: collection
 date: 2025-05-05
 ---
