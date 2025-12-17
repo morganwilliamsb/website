@@ -1,5 +1,5 @@
 ---
-title: "CBSO @ 100"
+title: "Parti-di-ffiniau Live"
 layout: collection
 date: 2023-01-29
 ---
