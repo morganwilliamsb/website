@@ -1,5 +1,5 @@
 ---
-title: "Datod (Unpinned)"
+title: "Datod (Unpinned) – Studio Recording"
 layout: collection
 date: 2021-08-30
 ---
