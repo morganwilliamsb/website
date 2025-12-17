@@ -1,5 +1,5 @@
 ---
-title: "Parti-di-ffiniau Live"
+title: "Parti-di-ffiniau – World Premiere"
 layout: collection
 date: 2023-01-29
 ---
