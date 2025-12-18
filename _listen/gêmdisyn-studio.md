@@ -17,11 +17,11 @@ date: 2022-05-16
 > – Tim Rutherford-Johnson
 
 **Performance / Recording**  
-Performed by Carl Rosman (E-flat clarinet).  
-Premiered on 16 May 2022.
+Performed by Carl Rosman (E-flat clarinet)  
+Premiered on 16 May 2022
 
-Video and editing by Janet Sinica and Jan Böyng.  
-Recording producer and editing by Stephan Schmidt.
+Video and editing by Janet Sinica and Jan Böyng  
+Recording producer and editing by Stephan Schmidt
 
 [Watch the performance](https://www.youtube.com/watch?v=5P4n6cukdxE&list=PLXCAwLBtyYgN7c7ckDcMRbWt2rh7Wy1pl&index=7)
 
