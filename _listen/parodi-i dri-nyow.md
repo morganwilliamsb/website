@@ -8,11 +8,9 @@ date: 2021-12-01
 
 *for violin, clarinet in Bb, and piano*
 
-> *Parodi i dri* (Parody for Three) was written specifically for student performers. The repertoire for violin, clarinet, and piano is often light in character, and, as its title suggests, this work deliberately engages with that tradition. The trio incorporates both direct quotations and fleeting allusions to textures familiar from earlier works for the combination.
+> The repertoire for violin, clarinet and piano is generally on the lighter side; as its title suggests, Morgan-Williams’ ‘parody for three’ is, quite deliberately, no exception. The trio incorporates both quotations of specific works and fleeting allusions to textures familiar from previous works for the combination. Quotation-spotters may discern fragments from a wide variety of sources ranging from Beethoven’s Septet (which, aptly enough, he also arranged for a similar combination) to Brahms’s Double Concerto, Vaughan Williams’ Fantasia on a theme of Thomas Tallis, and The Rite of Spring. They might, though, also miss the forest for the trees. These borrowed materials are very much subsumed into the overall flow, generally serving as sly winks in the background, more for the players’ amusement than for the audience’s erudition.
 >
-> Fragments from a wide range of sources may be discerned, including Beethoven’s *Septet*, Brahms’s *Double Concerto*, Vaughan Williams’s *Fantasia on a Theme of Thomas Tallis*, and *The Rite of Spring*. These borrowed materials are absorbed into the musical flow, functioning less as overt references and more as understated gestures — often intended as moments of recognition and amusement for the performers rather than as signals for the listener.
->
-> For reasons of register and colour, the violin’s lowest string is tuned a whole tone lower than usual, allowing a closer alignment with the clarinet’s low register.
+> The violin’s lowest string is tuned a whole-tone lower than usual, for the sake of a closer rapprochement with the clarinet’s low register. 
 >
 > – Carl Rosman
 
