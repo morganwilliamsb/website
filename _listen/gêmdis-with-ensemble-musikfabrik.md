@@ -21,13 +21,13 @@ _Gêmdis_ was written as part of the Composer Collider Europe programme for Carl
 
 Recorded by Martin Pilger at the Studio of Ensemble Musikfabrik (Köln), 3-4 November 2020.
 
-Conductor: Christian Eggen
-Flute/Piccolo: Helen Bledsoe
-Oboe/Cor Anglais/Slide Whistle: Peter Veale
-Solo E-flat Clarinet: Carl Rosman
-Horn/Slide Whistle: Christine Chapman
-Trombone/Slide Whistle: Bruce Collings
-Tuba/Slide Whistle: Melvyn Poore
-Piano/Slide Whistle: Benjamin Kobler
+: Conductor: Christian Eggen
+: Flute/Piccolo: Helen Bledsoe
+: Oboe/Cor Anglais/Slide Whistle: Peter Veale
+: Solo E-flat Clarinet: Carl Rosman
+: Horn/Slide Whistle: Christine Chapman
+: Trombone/Slide Whistle: Bruce Collings
+: Tuba/Slide Whistle: Melvyn Poore
+: Piano/Slide Whistle: Benjamin Kobler
 
 [Watch the performance](https://www.youtube.com/watch?v=h1i3XJXxLbY&list=PLMOqjS9ysnmK9PSS_aaMWyOxMP-Hi1iku&index=9)
