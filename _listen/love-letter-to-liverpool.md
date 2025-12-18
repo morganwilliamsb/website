@@ -1,5 +1,5 @@
 ---
-title: "A Love Letter To Liverpool"
+title: "A Love Letter To Liverpool with Jennifer Johnston"
 layout: collection
 date: 2019-09-01
 ---
