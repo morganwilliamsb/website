@@ -17,6 +17,7 @@ date: 2021-12-01
 **Performance / Recording**  
 Performed by:
 Nathan Isaac (clarinet), Nick Francis (violin) & Gwydion Rhys (piano).
+
 Recorded as part of the NYOW75 celebrations — a specially recorded digital concert of new music marking the 75th anniversary of the National Youth Orchestra of Wales – at St David’s Hall, Cardiff (UK).
 
 [Watch the performance](https://www.youtube.com/watch?v=z1r4ODByMX0&list=PLXCAwLBtyYgN7c7ckDcMRbWt2rh7Wy1pl&index=20)
