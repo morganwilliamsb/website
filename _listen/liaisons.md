@@ -20,10 +20,10 @@ This recording presents the work without the dancer.
 Performed by Jenna Vergeynst (harp and voice).  
 Recorded on 5 May 2025 in Walpurgis, Belgium.
 
-Costume by Nelly Bellegarde and Pacal Konradi  
-Video by Jelle Bokelmann  
-Sound by Tim Courtyn  
-Lighting by Winter Derycker
+Costume by Nelly Bellegarde and Pacal Konradi.  
+Video by Jelle Bokelmann.  
+Sound by Tim Courtyn.  
+Lighting by Winter Derycker.
 
 [Watch the performance](https://www.youtube.com/watch?v=_QmveNgivrY&list=PLXCAwLBtyYgN7c7ckDcMRbWt2rh7Wy1pl&index=3)
 
