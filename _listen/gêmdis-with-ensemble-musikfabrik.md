@@ -12,9 +12,10 @@ The title *Gêmdis* combines the Welsh words for “game” and “dice”, and 
 
 Are things out of control, then — or not?
 
+_Gêmdis_ was written for Ensemble Musikfabrik as part of the Composer Collider Europe programme.
+
 *Programme note by Tim Rutherford-Johnson.*
 
-_Gêmdis_ was written for Ensemble Musikfabrik as part of the Composer Collider Europe programme.
 
 **Performance / Recording**  
 
