@@ -14,7 +14,19 @@ Are things out of control, then — or not?
 
 *Programme note by Tim Rutherford-Johnson.*
 
+_Gêmdis_ was written for Ensemble Musikfabrik as part of the Composer Collider Europe programme.
+
 **Performance / Recording**  
-Performed by Carl Rosman (E-flat clarinet) with Ensemble Musikfabrik (cond. Christian Eggen).
+
+Recorded by Martin Pilger at the Studio of Ensemble Musikfabrik (Köln), 3-4 November 2020.
+
+Conductor: Christian Eggen
+Flute/Piccolo: Helen Bledsoe
+Oboe/Cor Anglais/Slide Whistle: Peter Veale
+Solo E-flat Clarinet: Carl Rosman
+Horn/Slide Whistle: Christine Chapman
+Trombone/Slide Whistle: Bruce Collings
+Tuba/Slide Whistle: Melvyn Poore
+Piano/Slide Whistle: Benjamin Kobler
 
 [Watch the performance](https://www.youtube.com/watch?v=h1i3XJXxLbY&list=PLMOqjS9ysnmK9PSS_aaMWyOxMP-Hi1iku&index=9)
