@@ -5,6 +5,7 @@ introduction: Here you will find a full list of Bethan’s works, some of which 
 ---
 
 ## Solo
+
 Skyppan (2024)
 : Basset Clarinet
 : Commissioned by Carl Rosman 
@@ -32,7 +33,7 @@ Reverie (2021)
 Gêmdisyn (2020)
 : Clarinet in Eb
 : Commissioned by Ensemble Musikfabrik
-: First performed on 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule Sporthalle (DE). 
+: First performed on 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule Sporthalle (Darmstadt, DE). 
 : Duration ca. 9′
 
 One, Two, Bakerloo… (2020)
