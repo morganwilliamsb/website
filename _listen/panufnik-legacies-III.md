@@ -1,5 +1,5 @@
 ---
-title: "Panufnik Legacies III"
+title: "Panufnik Legacies III with the London Symphony Orchestra"
 layout: collection
 date: 2020-05-08
 ---
