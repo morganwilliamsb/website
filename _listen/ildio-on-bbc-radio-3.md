@@ -8,9 +8,9 @@ date: 2025-06-22
 
 *for ensemble*
 
-*ILDIO* — meaning *surrender* — explores musical emergence through a process of gradual filtration. The work begins with twelve superimposed layers, which are progressively removed until a single, coherent thread remains. Rather than presenting a fixed argument, the piece invites the listener to witness the difficulty of arriving at clarity: a journey through density, uncertainty, and instability towards something more focused.
+*ILDIO* — meaning *surrender* — explores musical emergence through a process of gradual filtration. The piece begins with twelve superimposed layers, which are progressively removed until a single, coherent thread remains. Rather than presenting a fixed argument, the piece invites the listener to witness the difficulty of arriving at clarity: a journey through density, uncertainty, and instability towards something more focused.
 
-The opening texture is intentionally overloaded, with all players active at once. This density reflects a state of excess — competing ideas, simultaneous trajectories — before any hierarchy has been established. As the work unfolds, the texture thins section by section, allowing space, breath, and direction to emerge. The process of reduction becomes a metaphor for composing itself: listening through noise in order to discover what matters.
+The opening texture is intentionally overloaded, with all players active at once. This density reflects a state of excess — competing ideas, simultaneous trajectories — before any hierarchy has been established. As the piece unfolds, the texture thins section by section, allowing space, breath, and direction to emerge. The process of reduction becomes a metaphor for composing itself: listening through noise in order to discover what matters.
 
 **Performance / Recording**  
 World premiere performed by Birmingham Contemporary Music Group and L’Instant Donné, conducted by Catherine Larsen-Maguire.  
