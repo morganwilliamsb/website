@@ -92,7 +92,7 @@ Gormod (2024)
 
 Fleck (2023)
 : Clarinet in Eb, Clarinet in A, Viola
-: Written for a Darmstadt Ferienkurse workshop
+: Written for Darmstadt Ferienkurse
 : First performed on 18 August 2023 by Marcin Domagala, Yui Matsunaga and Yona Su @ Lichtenbergschule (Darmstadt, DE). 
 : Duration ca. 10’
 
