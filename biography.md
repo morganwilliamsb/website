@@ -1,6 +1,7 @@
 ---
 title: "Biography"
 layout: about
+image: /assets/images/bbridge-small-square.jpeg
 ---
 
 <img
