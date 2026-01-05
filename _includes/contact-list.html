@@ -3,12 +3,12 @@
     <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
   {% endif %}
 
-  {% if site.youtube_username %}
-    <li>{% include icon-youtube.html username=site.youtube_username label='YouTube' %}</li>
-  {% endif %}
-
   {% if site.soundcloud_username %}
     <li>{% include icon-soundcloud.html username=site.soundcloud_username label='SoundCloud' %}</li>
+  {% endif %}
+
+    {% if site.youtube_username %}
+    <li>{% include icon-youtube.html username=site.youtube_username label='YouTube' %}</li>
   {% endif %}
 
   {% if site.instagram_username %}
