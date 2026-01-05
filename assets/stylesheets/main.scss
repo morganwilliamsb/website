@@ -9,21 +9,23 @@
 
 @import "basically-basic";
 
-/* ===== Bio portrait (custom) ===== */
+/* —— Portrait for biography page —— */
 
 .bio-portrait {
   float: right;
-  width: 35%;
-  max-width: 320px;
   margin: 0 0 1rem 1.5rem;
+  width: 45%;        /* makes portrait larger */
+  max-width: 450px;  /* caps max size on large screens */
+  height: auto;      /* keeps aspect ratio */
   border-radius: 12px;
+  object-fit: cover; /* keeps image from distorting */
 }
 
-@media (max-width: 800px) {
+/* On smaller screens — full width and centered */
+@media (max-width: 900px) {
   .bio-portrait {
     float: none;
-    width: 70%;
-    max-width: 360px;
+    width: 80%;
     margin: 0 auto 1rem;
     display: block;
   }
