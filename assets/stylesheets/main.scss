@@ -62,3 +62,15 @@
 .works-list > dl > dd:first-of-type {
   font-weight: 600;
 }
+
+/* ===== Works page spacing ===== */
+
+/* Add more space between work title (####) and instrumentation */
+.page-content h4 {
+  margin-bottom: 0.75rem; /* increase gap below title */
+}
+
+/* Optional: tighten the space above instrumentation */
+.page-content h4 + p {
+  margin-top: 0;
+}
