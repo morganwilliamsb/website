@@ -9,23 +9,26 @@
 
 @import "basically-basic";
 
-/* —— Portrait for biography page —— */
+/* ===== Biography responsive image strategy ===== */
 
-.page-content img.bio-portrait {
-  float: right;
-  width: 42%;
-  max-width: 380px;
-  margin: 0 0 1.25rem 1.5rem;
-  border-radius: 14px;
+/* Desktop: show inline portrait, hide header image */
+@media (min-width: 901px) {
+  .page--about .page-image {
+    display: none;
+  }
+
+  .page-content img.bio-portrait {
+    float: right;
+    width: 40%;
+    max-width: 360px;
+    margin: 0 0 1.5rem 1.75rem;
+    border-radius: 14px;
+  }
 }
 
-/* On smaller screens — stack and center */
+/* Mobile: show header image, hide inline portrait */
 @media (max-width: 900px) {
   .page-content img.bio-portrait {
-    float: none;
-    width: 85%;
-    max-width: 380px;
-    margin: 0 auto 1rem;
-    display: block;
+    display: none;
   }
 }
