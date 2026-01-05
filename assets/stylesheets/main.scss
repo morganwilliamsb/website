@@ -42,19 +42,25 @@
 }
 
 /* ===== Works page refinements ===== */
-/* Best practice: scope to Works wrapper if you have it */
+
 .works-list h2 {
-  margin-bottom: 1.75rem; /* space under section headings (## Solo, etc.) */
+  margin-top: 2.5rem;     /* space before each section heading */
+  margin-bottom: 1.25rem; /* space under section headings */
 }
 
 .works-list h4 {
   font-weight: 600;       /* piece title weight */
-  margin-bottom: 0.75rem; /* gap between title (####) and instrumentation */
+  margin-bottom: 0.5rem;  /* gap between title and instrumentation */
 }
 
-/* Tighten the space above the instrumentation line (which is a paragraph) */
+/* Tighten the space above the instrumentation line (paragraph after h4) */
 .works-list h4 + p {
   margin-top: 0;
+}
+
+/* Reduce space after instrumentation + duration paragraphs */
+.works-list p {
+  margin-bottom: 0.35rem;
 }
 
 /* Lighten the year when you write it like: #### Skyppan *(2024)* */
@@ -64,35 +70,8 @@
   opacity: 0.65;
 }
 
-/* ===== Works metadata (definition lists) ===== */
-
-/* Space between instrumentation line and metadata */
-.works-list p + dl {
-  margin-top: 0.4rem;
-}
-
-/* Definition list container */
-.works-list dl {
-  margin: 0 0 1.5rem 0; /* space after each piece block */
-}
-
-/* Individual metadata lines */
-.works-list dd {
-  margin: 0.15rem 0;     /* vertical spacing */
-  padding-left: 0;       /* remove default indent */
-  margin-left: 0;        /* remove default indent */
-  font-size: 0.98em;     /* slightly smaller than instrumentation */
-  opacity: 0.9;
-}
-
-/* Extra breathing room between metadata rows */
-.works-list dd + dd {
-  margin-top: 0.35rem;
-}
-
-/* ===== Works: highlight Duration line (only on Works page) ===== */
-
-/* Duration is the italic line: *Duration: ...* (inside the paragraph after instrumentation) */
+/* ===== Works: highlight Duration line ===== */
+/* Duration is the italic line: *Duration: ...* (paragraph after instrumentation) */
 .works-list p + p em {
   display: inline-block;
   margin-top: 0.15rem;
@@ -105,31 +84,28 @@
   opacity: 0.9;
 }
 
-/* ===== Works: tighten each entry into a clear block ===== */
+/* ===== Works metadata (definition lists) ===== */
 
-/* Reduce space after instrumentation + duration */
-.works-list p {
-  margin-bottom: 0.35rem;
+/* Space between instrumentation/duration block and metadata list */
+.works-list p + dl {
+  margin-top: 0.4rem;
 }
 
-/* Reduce space between metadata lines */
-.works-list dd {
-  margin: 0.1rem 0;
-}
-
-/* Reduce space between metadata block and next title */
+/* Definition list container (controls separation between works) */
 .works-list dl {
-  margin-bottom: 1rem; /* controls block separation */
+  margin: 0 0 1rem 0; /* space after each piece block */
 }
 
-/* Slightly reduce spacing under work titles */
-.works-list h4 {
-  margin-bottom: 0.5rem;
+/* Individual metadata lines */
+.works-list dd {
+  margin: 0.1rem 0;     /* tighter line spacing within metadata */
+  padding-left: 0;      /* remove default indent */
+  margin-left: 0;       /* remove default indent */
+  font-size: 0.98em;    /* slightly smaller than instrumentation */
+  opacity: 0.9;
 }
 
-/* Keep section breaks readable but not airy */
-.works-list h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1.25rem;
+/* Slightly more space between metadata rows */
+.works-list dd + dd {
+  margin-top: 0.3rem;
 }
-
