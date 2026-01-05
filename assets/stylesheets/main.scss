@@ -63,3 +63,25 @@
   font-weight: 400;
   opacity: 0.65;
 }
+
+/* ===== Works metadata (definition lists) ===== */
+
+.works-list p + dl {
+  margin-top: 0.4rem; /* space between instrumentation line and metadata */
+}
+
+.works-list dl {
+  margin: 0 0 1.5rem 0; /* space after each piece block */
+}
+
+.works-list dd {
+  margin: 0.15rem 0; /* line spacing within the metadata */
+  font-size: 0.98em;
+  opacity: 0.9;
+}
+
+.works-list dd + dd {
+  margin-top: 0.35rem; /* extra space between metadata lines */
+}
+
+
