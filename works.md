@@ -4,7 +4,7 @@ layout: page
 introduction: Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
 ---
 
-<div class="works-list">
+<div class="works-list" markdown="1">
 
 ## Solo
 
