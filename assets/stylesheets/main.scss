@@ -11,13 +11,13 @@
 
 /* ===== Biography: header on mobile, portrait on desktop ===== */
 
-/* Desktop: hide header image, show portrait */
+/* Desktop: hide Biography header image, show Biography portrait */
 @media (min-width: 901px) {
-  .intro-image {
+  body.layout--about .intro-image {
     display: none;
   }
 
-  .page-content img.bio-portrait {
+  body.layout--about .page-content img.bio-portrait {
     float: right;
     width: 42%;
     max-width: 380px;
@@ -27,9 +27,9 @@
   }
 }
 
-/* Mobile: show header image, hide portrait */
+/* Mobile: show Biography header image, hide Biography portrait */
 @media (max-width: 900px) {
-  .page-content img.bio-portrait {
+  body.layout--about .page-content img.bio-portrait {
     display: none;
   }
 }
