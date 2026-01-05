@@ -63,6 +63,11 @@
   margin-bottom: 0.35rem;
 }
 
+/* NEW: No gap between instrumentation and duration */
+.works-list p + p {
+  margin-top: 0;
+}
+
 /* Lighten the year when you write it like: #### Skyppan *(2024)* */
 .works-list h4 em {
   font-style: normal; /* cancel italics */
@@ -92,8 +97,9 @@
 }
 
 /* Definition list container (controls separation between works) */
+/* NEW: Increase the gap between entries */
 .works-list dl {
-  margin: 0 0 1rem 0; /* space after each piece block */
+  margin: 0 0 1.75rem 0; /* bigger space after each piece block */
 }
 
 /* Individual metadata lines */
