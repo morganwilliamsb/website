@@ -41,59 +41,25 @@
   }
 }
 
-/* ===== Works list typography ===== */
-/* (Requires the Works page content to be wrapped in <div class="works-list"> ... </div>) */
-
-/* Make each work title (the plain line above the ":" list) larger */
-.works-list > p {
-  font-size: 1.25em;
-  font-weight: 600;
-  margin-top: 1.5rem;
-  margin-bottom: 0.25rem;
-}
-
-/* Keep the definition list tight under the title */
-.works-list > dl {
-  margin-top: 0;
-}
-
-/* Optional: ensure the first detail line (instrumentation) reads strongly
-   (you already bold it in Markdown, so this is just extra reinforcement) */
-.works-list > dl > dd:first-of-type {
-  font-weight: 600;
-}
-
-/* ===== Works page spacing ===== */
-
-/* Add more space between work title (####) and instrumentation */
-.page-content h4 {
-  margin-bottom: 0.75rem; /* increase gap below title */
-}
-
-/* Optional: tighten the space above instrumentation */
-.page-content h4 + p {
-  margin-top: 0;
-}
-
 /* ===== Works page refinements ===== */
-
-/* Add space under section headings (## Solo, ## Chamber, etc.) */
-.page-content h2 {
-  margin-bottom: 1.75rem;
+/* Best practice: scope to Works wrapper if you have it */
+.works-list h2 {
+  margin-bottom: 1.75rem; /* space under section headings (## Solo, etc.) */
 }
 
-/* Add more space between work title (####) and instrumentation */
-.page-content h4 {
-  margin-bottom: 0.75rem;
+.works-list h4 {
+  font-weight: 600;       /* piece title weight */
+  margin-bottom: 0.75rem; /* gap between title (####) and instrumentation */
 }
 
-/* Lighten the year inside work titles */
-.page-content h4 {
-  font-weight: 600;
+/* Tighten the space above the instrumentation line (which is a paragraph) */
+.works-list h4 + p {
+  margin-top: 0;
 }
 
-.page-content h4 em,
-.page-content h4 span {
+/* Lighten the year when you write it like: #### Skyppan *(2024)* */
+.works-list h4 em {
+  font-style: normal; /* cancel italics */
   font-weight: 400;
   opacity: 0.65;
 }
