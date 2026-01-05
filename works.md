@@ -12,8 +12,8 @@ introduction: Here you will find a complete list of Bethan’s works, all of whi
 **Basset Clarinet**  
 Duration: ca. 42’
 
-: Commissioned by Carl Rosman 
-: First performance tbc 
+: Commissioned by Carl Rosman.
+: First performance tbc.
 
 #### Ffarwel i Uli *(2023)*
 **Amplified Violin & Ring Modulator**  
@@ -26,28 +26,28 @@ Duration: ca. 7’
 **Guitar**  
 Duration: ca. 5’
 
-: Commissioned by International Guitar Foundation & Festivals (IGF)
+: Commissioned by International Guitar Foundation & Festivals (IGF).
 : First performed on 23 October 2021 by Bradley Johnson @ Kings Place (London, UK). 
 
 #### Reverie *(2021)*
 **Oboe**  
 Duration: ca. 8′
 
-: Written for Elen Morgan-Williams
+: Written for Elen Morgan-Williams.
 : First performed on 3 June 2021 by Elen Morgan-Williams @ Guildhall School of Music & Drama (London, UK). 
 
 #### Gêmdisyn *(2020)*
 **Clarinet in Eb**  
 Duration: ca. 9′
 
-: Commissioned by Ensemble Musikfabrik
+: Commissioned by Ensemble Musikfabrik.
 : First performed on 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule Sporthalle (Darmstadt, DE). 
 
 #### One, Two, Bakerloo… *(2020)*
 **Violin**  
 Duration: ca. 30″
 
-: Written for Fenella Humphreys
+: Written for Fenella Humphreys.
 : First performed on 10 June 2020 by Fenella Humphreys @ Homemade Concert #14 at Youtube (London, UK). 
 : Recorded by Rubicon Classics on disk _Prism._
 
@@ -55,28 +55,30 @@ Duration: ca. 30″
 **Organ**  
 Duration: ca. 5’30”
 
-: Written for Giovanni Michelini
+: Written for Giovanni Michelini.
 : First performed on 23 July 2018 by Giovanni Michelini @ International Organ Festival Haarlem at St. Bavo’s Church (Haarlem, NL). 
 
 #### A Ribbon At A Time *(2018)*
 **Bassoon**  
 Duration: ca. 3’
 
-: Written for Georgie Powell
+: Written for Georgie Powell.
 : First performed on 30 July 2018 by Georgie Powell @ Darmstadt Ferienkurse (DE). 
 
 #### Oceans *(2013)*
 **Fixed Tape**  
 Duration: ca. 8’
 
-: Written for Bethan Morgan-Williams
+: Written for Bethan Morgan-Williams.
 : First performed on 12 December 2013 by Bethan Morgan-Williams @ Crystal House (Manchester, UK).
 
 #### A Thornbush In My Strength *(2013)*
 **Percussion**  
 Duration: ca. 3’30”
 
-: First performed on 30 October 2013 by Delia Stevens (House of Bedlam) @ Royal Northern College of Music (Manchester, UK). Instrumentation: saron, snare drum, splash cymbal. 
+: Written for Delia Stevens.
+: First performed on 30 October 2013 by Delia Stevens (House of Bedlam) @ Royal Northern College of Music (Manchester, UK). 
+: Instrumentation: saron, snare drum, splash cymbal. 
 
 #### Minstrels On Their Way Home (A Tribute to Debussy) *(2013)*
 **Piano**  
@@ -96,7 +98,7 @@ Duration: ca. 4′
 **Singing Harpist & Dancer**  
 Duration: ca. 9’
 
-: Commissioned by Jenna Vergeynst
+: Commissioned by Jenna Vergeynst.
 : First performed on 25 April 2025 by Jenna Vergeynst & Myrthe Bokelmann @ De Graaf (Ghent, BE).
 
 #### Gormod *(2024)*
@@ -110,21 +112,21 @@ Duration: ca. 12′
 **Clarinet in Eb, Clarinet in A, Viola**  
 Duration: ca. 10’
 
-: Written for Darmstadt Ferienkurse
+: Written for Darmstadt Ferienkurse.
 : First performed on 18 August 2023 by Marcin Domagala, Yui Matsunaga and Yona Su @ Lichtenbergschule (Darmstadt, DE). 
 
 #### Voices Go With You *(2022)*
 **Alto Flute, Cello, Percussion, Piano**  
 Duration: ca. 11’
 
-: Commissioned by Psappha Ensemble
+: Commissioned by Psappha Ensemble.
 : First performed on 12 May 2022 by Psappha Ensemble @ Hallé St. Peter’s (Manchester, UK).
 
 #### Parodi i Dri *(2021)*
 **Clarinet in Bb, Violin, Piano**  
 Duration: ca. 5’30″
 
-: Commissioned by National Youth Arts Wales
+: Commissioned by National Youth Arts Wales.
 : First performed (virtual) on 21 October by Nathan Isaac, Nick Francis & Gwydion Rhys. 
 
 #### Traces of a Disco *(rev. (2021))*
@@ -159,7 +161,7 @@ Duration: ca. 8′
 **String Quartet**  
 Duration: ca. 14’30”
 
-: Commissioned by Hilary Browning
+: Commissioned by Hilary Browning.
 : First performed on 6 November 2019 by Equilibrium Ensemble @ University of Liverpool Lunchtime Concert Series (Liverpool, UK). 
 
 #### Ghost Tongues *(2018)*
@@ -180,7 +182,7 @@ Duration: ca. 5’40”
 **Bassoon & Harpsichord**  
 Duration: ca. 6’30”
 
-: Commissioned by Hugh Woolley
+: Commissioned by Hugh Woolley.
 : First performed on 7 May 2017 by Hugh Woolley and Stephen Giles @ Birmingham Conservatoire (UK). 
 
 #### In Kenopsia *(2017)*
@@ -200,6 +202,7 @@ Duration: ca. 8′
 **Horn & Live Electronics**  
 Duration: ca. 8′
 
+: Written for Alison Wilmshurst.
 : First performed on 15 May 2015 by Alison Wilmshurst & Bethan Morgan-Williams @ Royal Northern College of Music (Manchester, UK). 
 
 #### Helpings of Hell *(2013)*
@@ -244,7 +247,7 @@ Duration: ca. 2′
 **Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello**  
 Duration: ca. 15'
 
-: A Saunders commission for ensemble mosaik
+: A Saunders commission for ensemble mosaik.
 : First performance on 17 January 2026 by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE). 
 
 #### ILDIO *(2025)*
@@ -265,13 +268,14 @@ Duration: ca. 17′
 **Flute (=Alto/D.Rec.), Clarinet in Bb (=B. Cl. in Bb), Soprano Trombone, 1P, Piano (=Sampler/Slide Whistle), Harp, Electric Guitar, Live Electronics, 2 Violins, Viola, Cello, Double Bass**  
 Duration: ca. 12′
 
-: Commissioned by Uproar Ensemble
-: First performed on 28 February 2020 by Uproar Ensemble @ Chapel Arts Centre (Cardiff, UK).
+: Commissioned by Uproar Ensemble.
+: First performed on 28 February 2020 by Uproar Ensemble (cond. Michael Rafferty) @ Chapel Arts Centre (Cardiff, UK).
 
 #### Severn *(2019)*
 **Clarinet in A, Bass Clarinet in Bb, Mandolin, Guitar, Violin, Viola, Cello**  
 Duration: ca. 8′
 
+: Written for the New European Ensemble.
 : First performed on 3 April 2019 by the New European Ensemble @ Korzo Theatre (Den Haag, NL).
 
 #### Speelklok II *(2018)*
@@ -354,24 +358,24 @@ Duration: ca. 5’
 **Soprano & Piano**  
 Duration: ca. 5′
 
-: Text by Bethan Morgan-Williams 
-: Written for Sarah Dacey as part of the CoDI opera project
+: Text by Bethan Morgan-Williams.
+: Written for Sarah Dacey as part of the CoDI opera project.
 : First performed on 26 July 2021 by Sarah Dacey & Christopher Williams @ Cardiff University (UK). 
 
 #### Cusan Aderyn *(2019)*
 **Soprano & Piano Trio**  
 Duration: ca. 5′
 
-: Text by Richard Llwyd
-: Commissioned by Canolfan Gerdd William Mathias
+: Text by Richard Llwyd.
+: Commissioned by Canolfan Gerdd William Mathias.
 : First performed on 16 October 2021 by Alys Roberts, Sara Trickey, Sebastian Van Kuijk & Iwan Llewelyn-Jones @ Galeri Arts (Caernarfon, UK). 
 
 #### arr. Liverpool Lullaby *(2019)*
 **Mezzo-Soprano & Piano**  
 Duration: ca. 6’
 
-: Text by Stan Kelly
-: Commissioned by Sandra Parr
+: Text by Stan Kelly.
+: Commissioned by Sandra Parr.
 : First performed on 29 September 2019 by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK). 
 : Recorded by Rubicon Classics on disk _A Love Letter To Liverpool_ 
 
@@ -379,27 +383,28 @@ Duration: ca. 6’
 **SSA, Percussion, Piano**  
 Duration: ca. 4’
 
-: Text by Matthew Hill
+: Commissioned by the Liverpool Philharmonic Youth Choir.
+: Text by Matthew Hill.
 : First performed on 2 July 2017 by the Liverpool Philharmonic Youth Choir @ Royal Philharmonic Hall (Liverpool, UK). 
 
 #### Walk With Me *(2014)*
 **Mezzo-Soprano & Piano**  
 Duration: ca. 6’
 
-: Text by Beatrice Wallbank
+: Text by Beatrice Wallbank.
 : First performed on 22 April 2023 by Jessica Summers and Jelena Makarova @ Holy Trinity Church Hereford (Hereford, UK).
 
 #### Sleepwalking *(2011)*
 **Soprano & Piano**  
 Duration: ca. 3’
 
-: Text by Carly Hinds
+: Text by Carly Hinds.
 
 #### Remembrance *(2006)*
 **Alto, Alto Flute, Violin, Viola, Bass Clarinet in Bb**  
 Duration: ca. 5’30
 
-: Text by Laurence Binyon
+: Text by Laurence Binyon.
 : First performed on 12 November 2006 by Jessica Radcliffe @ Wells Cathedral School (UK). 
 
 </div>
