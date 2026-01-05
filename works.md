@@ -110,7 +110,7 @@ introduction: Here you will find a complete list of Bethan’s works, all of whi
 : First performed (virtual) on 21 October by Nathan Isaac, Nick Francis & Gwydion Rhys. 
 : Duration ca. 5’30″
 
-#### Traces of a Disco (rev. *(2021)*) 
+#### Traces of a Disco *(rev. (2021))*
 **Alto Flute, Bass Clarinet in Bb, Vibraphone, Cello, Double Bass**
 : Revised for new instrumentation. 
 : Revised version first performed on 17 July 2021 by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom) @ LSO St. Luke’s (London, UK). 
