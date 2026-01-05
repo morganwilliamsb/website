@@ -3,6 +3,8 @@ title: "Biography"
 layout: about
 ---
 
+![Bethan Morgan-Williams portrait](/assets/images/bbridge.png){: .bio-portrait }
+
 ## Full Bio
 
 Bethan Morgan-Williams (b. 1992) is a composer whose work explores how systems and intuition interact to generate musical material. Her music plays with expectation and variance, fostering co-creative frameworks and reflecting the restless energy of 21st-century life. Described as “marvellously oblique and obscure” [5against4] while being “rooted in something ancient and folky” [The Telegraph], her work balances structural complexity with physicality, humour, and moments of heightened musical presence.
