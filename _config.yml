@@ -17,8 +17,8 @@ lang: en-GB
 title: Bethan Morgan-Williams
 email:
 description: Composer
-baseurl: 
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl:
+url: "https://www.bethanmorganwilliams.com"
 author:
   name: Bethan Morgan-Williams
   twitter: morganwilliamsb
@@ -26,6 +26,7 @@ author:
   picture:
 twitter_username: morganwilliamsb
 instagram_username: morganwilliamsb
+soundcloud_username: bethanmorganwilliams
 github_username:
 logo: "/assets/images/logo_bmw.png"
 search: true # false (default)
