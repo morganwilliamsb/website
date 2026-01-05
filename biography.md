@@ -3,7 +3,10 @@ title: "Biography"
 layout: about
 ---
 
-![Bethan Morgan-Williams portrait](/assets/images/bbridge.png){: .bio-portrait }
+<img
+  src="/assets/images/bbridge.png"
+  alt="Bethan Morgan-Williams portrait"
+  class="bio-portrait">
 
 ## Full Bio
 
