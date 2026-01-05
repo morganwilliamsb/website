@@ -4,7 +4,7 @@ layout: about
 ---
 
 <img
-  src="/assets/images/bbridge.png"
+  src="/assets/images/bbridge-small-square.jpeg"
   alt="Bethan Morgan-Williams portrait"
   class="bio-portrait">
 
