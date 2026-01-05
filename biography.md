@@ -1,7 +1,6 @@
 ---
 title: "Biography"
 layout: about
-image: /assets/images/bbridge.png
 ---
 
 ## Full Bio
