@@ -8,3 +8,23 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+/* ===== Bio portrait (custom) ===== */
+
+.bio-portrait {
+  float: right;
+  width: 35%;
+  max-width: 320px;
+  margin: 0 0 1rem 1.5rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 800px) {
+  .bio-portrait {
+    float: none;
+    width: 70%;
+    max-width: 360px;
+    margin: 0 auto 1rem;
+    display: block;
+  }
+}
