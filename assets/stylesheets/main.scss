@@ -66,22 +66,26 @@
 
 /* ===== Works metadata (definition lists) ===== */
 
+/* Space between instrumentation line and metadata */
 .works-list p + dl {
-  margin-top: 0.4rem; /* space between instrumentation line and metadata */
+  margin-top: 0.4rem;
 }
 
+/* Definition list container */
 .works-list dl {
   margin: 0 0 1.5rem 0; /* space after each piece block */
 }
 
+/* Individual metadata lines */
 .works-list dd {
-  margin: 0.15rem 0; /* line spacing within the metadata */
-  font-size: 0.98em;
+  margin: 0.15rem 0;     /* vertical spacing */
+  padding-left: 0;       /* remove default indent */
+  margin-left: 0;        /* remove default indent */
+  font-size: 0.98em;     /* slightly smaller than instrumentation */
   opacity: 0.9;
 }
 
+/* Extra breathing room between metadata rows */
 .works-list dd + dd {
-  margin-top: 0.35rem; /* extra space between metadata lines */
+  margin-top: 0.35rem;
 }
-
-
