@@ -273,7 +273,7 @@ introduction: Here you will find a complete list of Bethan’s works, all of whi
 : Recorded by LSO Live on disk _Panufnik Legacies III_. 
 : Duration ca. 4’
 
-### Harangue *(2014)*
+#### Harangue *(2014)*
 **4243 / 311 / 1T 3P 1Pno 1BG 1Cel 1Hp / Solo Hn / 10.8.6.4.2**
 : First performed on 10 May 2014 by Alex Wildsmith & RNCM Brand New Orchestra @ Royal Northern College of Music (Manchester, UK). 
 : Duration ca. 9’
