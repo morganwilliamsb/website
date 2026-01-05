@@ -32,4 +32,12 @@
   body.layout--about .page-content img.bio-portrait {
     display: none;
   }
+
+  /* Match homepage header behavior: fluid height based on image aspect ratio */
+  body.layout--about .intro-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
 }
