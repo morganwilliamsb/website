@@ -89,3 +89,18 @@
 .works-list dd + dd {
   margin-top: 0.35rem;
 }
+
+/* ===== Works: highlight Duration line (only on Works page) ===== */
+
+/* Duration is the italic line: *Duration: ...* (inside the paragraph after instrumentation) */
+.works-list p + p em {
+  display: inline-block;
+  margin-top: 0.15rem;
+  margin-bottom: 0.6rem;      /* space before metadata */
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;       /* pill shape */
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  font-style: normal;         /* remove italics visually */
+  font-weight: 600;
+  opacity: 0.9;
+}
