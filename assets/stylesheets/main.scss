@@ -11,21 +11,20 @@
 
 /* —— Portrait for biography page —— */
 
-.bio-portrait {
+.page-content img.bio-portrait {
   float: right;
-  margin: 0 0 1rem 1.5rem;
-  width: 45%;        /* makes portrait larger */
-  max-width: 450px;  /* caps max size on large screens */
-  height: auto;      /* keeps aspect ratio */
-  border-radius: 12px;
-  object-fit: cover; /* keeps image from distorting */
+  width: 42%;
+  max-width: 380px;
+  margin: 0 0 1.25rem 1.5rem;
+  border-radius: 14px;
 }
 
-/* On smaller screens — full width and centered */
+/* On smaller screens — stack and center */
 @media (max-width: 900px) {
-  .bio-portrait {
+  .page-content img.bio-portrait {
     float: none;
-    width: 80%;
+    width: 85%;
+    max-width: 380px;
     margin: 0 auto 1rem;
     display: block;
   }
