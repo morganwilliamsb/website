@@ -74,3 +74,26 @@
 .page-content h4 + p {
   margin-top: 0;
 }
+
+/* ===== Works page refinements ===== */
+
+/* Add space under section headings (## Solo, ## Chamber, etc.) */
+.page-content h2 {
+  margin-bottom: 1.75rem;
+}
+
+/* Add more space between work title (####) and instrumentation */
+.page-content h4 {
+  margin-bottom: 0.75rem;
+}
+
+/* Lighten the year inside work titles */
+.page-content h4 {
+  font-weight: 600;
+}
+
+.page-content h4 em,
+.page-content h4 span {
+  font-weight: 400;
+  opacity: 0.65;
+}
