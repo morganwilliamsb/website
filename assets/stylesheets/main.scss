@@ -104,3 +104,32 @@
   font-weight: 600;
   opacity: 0.9;
 }
+
+/* ===== Works: tighten each entry into a clear block ===== */
+
+/* Reduce space after instrumentation + duration */
+.works-list p {
+  margin-bottom: 0.35rem;
+}
+
+/* Reduce space between metadata lines */
+.works-list dd {
+  margin: 0.1rem 0;
+}
+
+/* Reduce space between metadata block and next title */
+.works-list dl {
+  margin-bottom: 1rem; /* controls block separation */
+}
+
+/* Slightly reduce spacing under work titles */
+.works-list h4 {
+  margin-bottom: 0.5rem;
+}
+
+/* Keep section breaks readable but not airy */
+.works-list h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
