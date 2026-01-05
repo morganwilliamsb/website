@@ -38,6 +38,27 @@
     width: 100%;
     height: auto;
     display: block;
-    object-fit: cover;
   }
+}
+
+/* ===== Works list typography ===== */
+/* (Requires the Works page content to be wrapped in <div class="works-list"> ... </div>) */
+
+/* Make each work title (the plain line above the ":" list) larger */
+.works-list > p {
+  font-size: 1.25em;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Keep the definition list tight under the title */
+.works-list > dl {
+  margin-top: 0;
+}
+
+/* Optional: ensure the first detail line (instrumentation) reads strongly
+   (you already bold it in Markdown, so this is just extra reinforcement) */
+.works-list > dl > dd:first-of-type {
+  font-weight: 600;
 }
