@@ -24,6 +24,10 @@
   <li>{% include icon-soundcloud.html username=site.soundcloud_username label='SoundCloud' %}</li>
 {% endif %}
 
+  {% if site.youtube_username %}
+  <li>{% include icon-youtube.html username=site.youtube_username label='YouTube' %}</li>
+{% endif %}
+
   <li>
     <a href="https://eepurl.com/g7QRu9" target="_blank" rel="noopener">
       <span class="icon icon--rss">{% include icon-rss.svg %}</span>
