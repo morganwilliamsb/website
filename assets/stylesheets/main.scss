@@ -9,24 +9,25 @@
 
 @import "basically-basic";
 
-/* ===== Biography responsive image strategy ===== */
+/* ===== Biography: header on mobile, portrait on desktop ===== */
 
-/* Desktop: show inline portrait, hide header image */
+/* Desktop: hide header image, show portrait */
 @media (min-width: 901px) {
-  .page--about .page-image {
+  .intro-image {
     display: none;
   }
 
   .page-content img.bio-portrait {
     float: right;
-    width: 40%;
-    max-width: 360px;
-    margin: 0 0 1.5rem 1.75rem;
+    width: 42%;
+    max-width: 380px;
+    margin: 0 0 1.25rem 1.5rem;
     border-radius: 14px;
+    display: block;
   }
 }
 
-/* Mobile: show header image, hide inline portrait */
+/* Mobile: show header image, hide portrait */
 @media (max-width: 900px) {
   .page-content img.bio-portrait {
     display: none;
