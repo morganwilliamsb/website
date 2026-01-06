@@ -136,6 +136,12 @@ Duration: ca. 8′
 : Commissioned by the Park Lane Group with funds provided by the RVW Trust. 
 : First performed on 13 July 2020 by Hannah Weirich & Ulrich Löffler @ Studio of Ensemble Musikfabrik (Köln, DE). 
 
+#### Severn *(2019)*
+**Clarinet in A, Bass Clarinet in Bb, Mandolin, Guitar, Violin, Viola, Cello**  
+Duration: ca. 8′
+: Written for the New European Ensemble.
+: First performed on 3 April 2019 by the New European Ensemble @ Korzo Theatre (Den Haag, NL).
+
 #### Double Double *(2018)*
 **String Quartet**  
 Duration: ca. 14’30”
@@ -150,7 +156,7 @@ Duration: ca. 11′
 
 #### Traces of a Disco *(2018)*
 **Cimbalom, Bass Clarinet in Bb, Double Bass**  
-Duration: ca. 5’40”
+Duration: ca. 6'”
 : Commissioned by Rachel Swanick with support from the Arts Council England, Psappha and the Whitworth Art Gallery. 
 : First performed on 17 May 2018 by Psappha Ensemble @ Whitworth Art Gallery (Manchester, UK).
 
@@ -233,22 +239,16 @@ Duration: ca. 12′
 : Commissioned by Uproar Ensemble.
 : First performed on 28 February 2020 by Uproar Ensemble (cond. Michael Rafferty) @ Chapel Arts Centre (Cardiff, UK).
 
-#### Severn *(2019)*
-**Clarinet in A, Bass Clarinet in Bb, Mandolin, Guitar, Violin, Viola, Cello**  
-Duration: ca. 8′
-: Written for the New European Ensemble.
-: First performed on 3 April 2019 by the New European Ensemble @ Korzo Theatre (Den Haag, NL).
-
 #### Speelklok II *(2018)*
 **Mandolin, Accordion, Harpsichord, Celesta, Piano, Percussion**  
 Duration: ca. 7’30”
-: First performed on 24 January 2019 by the Spaceship Ensemble @ Koninklijk Conservatorium Den Haag (NL).
+: First performed on 24 January 2019 by the Spaceship Ensemble (cond. Hardy Li) @ Koninklijk Conservatorium Den Haag (NL).
 
 #### Mirages in Pisa *(2016)*
 **Flute (=Picc), Oboe (=Cor), Clarinet in A (=B.Cl. in Bb), Trumpet (=Picc), Horn, 1P, Piano, 2 Violins, Viola, 2 Cellos**  
 Duration: ca. 12’
 : Commissioned by the Royal Liverpool Philharmonic Orchestra through the Christopher Brooks Composition Prize, supported by the Rushworth Foundation. 
-: First performed on 26 October 2016 by Ensemble 10/10 & Clark Rundell @ St. George’s Hall Liverpool (UK). 
+: First performed on 26 October 2016 by Ensemble 10/10 (cond. Clark Rundell) @ St. George’s Hall Liverpool (UK). 
 
 # Orchestra
 
@@ -262,19 +262,19 @@ Duration: ca. 4′
 **2222 / 223 / 1T 2P 1H 1BG (opt.) / 10.8.6.4.2**  
 Duration: ca. 6’
 : Commissioned by the Promenade Concert Orchestra. 
-: First performed on 21 May 2017 by the Promenade Concert Orchestra & Howard Rogerson @ The Platform (Morecambe, UK). 
+: First performed on 21 May 2017 by the Promenade Concert Orchestra (cond. Howard Rogerson) @ The Platform (Morecambe, UK). 
 
 #### KNO<sub>3</sub> *(2016)*
 **2222 / 2Hn / 1T 3P / 12.10.8.6.4**  
 Duration: ca. 6’
 : Commissioned by the International Conductors Festival. 
-: First performed on 29 July 2016 by the Piccadilly Symphony Orchestra & Xavier Cloete @ Norton Centre for the Arts (Danville KY, USA). 
+: First performed on 29 July 2016 by the Piccadilly Symphony Orchestra (cond. Xavier Cloete) @ Norton Centre for the Arts (Danville KY, USA). 
 
 #### Scoot *(2015)*
 **3333 / 4331 / 1T 2P 1Cel 1Hp / 14.12.10.8.6**  
 Duration: ca. 4’
 : Commissioned by the London Symphony Orchestra through the LSO Discovery Panufnik Composers Scheme, supported by the Helen Hamlyn Trust. 
-: First performed on 11 March 2016 by the London Symphony Orchestra & François-Xavier Roth @ LSO St. Luke’s (London, UK). 
+: First performed on 11 March 2016 by the London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s (London, UK). 
 : Recorded by LSO Live on disk _Panufnik Legacies III_. 
 
 #### Harangue *(2014)*
@@ -290,17 +290,17 @@ Duration: ca. 9’
 #### arr. Three Pieces for Beginner String Orchestra *(2007)*
 **String Orchestra**  
 Duration: ca. 4’
-: First performed in February 2007 by WYMSO & Catherine Lord @ Wells Cathedral School (UK).
+: First performed in February 2007 by WYMSO (cond. Catherine Lord) @ Wells Cathedral School (UK).
 
 #### Two Shadows Taking Pictures *(2007)*
 **String Orchestra**  
 Duration: ca. 7’30”
-: First performed in February 2007 by the Wells Cathedral School String Ensemble & Catherine Lord @ Royal Northern College of Music (Manchester, UK). 
+: First performed in February 2007 by the Wells Cathedral School String Ensemble (cond. Catherine Lord) @ Royal Northern College of Music (Manchester, UK). 
 
 #### Hen Daith *(2005)*
 **String Orchestra**  
 Duration: ca. 5’
-: First performed in June 2005 by the Wells Cathedral School String Ensemble & Catherine Lord @ Colston Hall (Bristol, UK). 
+: First performed in June 2005 by the Wells Cathedral School String Ensemble (cond. Catherine Lord) @ Colston Hall (Bristol, UK). 
 
 # Vocal
 
