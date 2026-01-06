@@ -4,9 +4,10 @@ layout: page
 introduction: Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
 ---
 
-<div class="works-list" markdown="1">
+<div class="works-list">
 
-# Solo
+<details class="works-group" open>
+<summary>Solo</summary>
 
 #### Skyppan *(2024)*
 **Basset Clarinet**  
@@ -79,7 +80,10 @@ Duration: ca. 3’30″
 Duration: ca. 4′
 : Written for Antonella Haywood. 
 
-# Chamber
+</details>
+
+<details class="works-group">
+<summary>Chamber</summary>
 
 #### Trying to Use Words *(2025)*
 **Singing Harpist & Dancer**  
@@ -210,9 +214,12 @@ Duration: ca. 6’30”
 #### Bryanston Jig *(2002)*
 **2 Violins, Viola, 2 Double Basses, Bongos**  
 Duration: ca. 2′
-: First performed in August 2002 by Catherine Lord, Katie Sharp, Ben Weedon, David Heyes, Alfie Weedon & Bethan Morgan-Williams @ Bryanston College, Dorset (UK). 
+: First performed in August 2002 by Catherine Lord, Katie Sharp, Ben Weedon, David Heyes, Alfie Weedon & Bethan Morgan-Williams @ Bryanston College, Dorset (UK).
 
-# Ensemble
+</details>
+
+<details class="works-group">
+<summary>Ensemble</summary>
 
 #### Digon! *(2025)*
 **Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello**  
@@ -249,7 +256,10 @@ Duration: ca. 12’
 : Commissioned by the Royal Liverpool Philharmonic Orchestra through the Christopher Brooks Composition Prize, supported by the Rushworth Foundation. 
 : First performed on 26 October 2016 by Ensemble 10/10 (cond. Clark Rundell) @ St. George’s Hall, Liverpool (UK). 
 
-# Orchestra
+</details>
+
+<details class="works-group">
+<summary>Orchestra</summary>
 
 #### Parti Di-ffiniau *(2022)*
 **3333 / 4331 / 1T 3P 1Pno 1Hp / 12.10.8.6.4**  
@@ -300,7 +310,10 @@ Duration: ca. 7’30”
 Duration: ca. 5’
 : First performed in June 2005 by the Wells Cathedral School String Ensemble (cond. Catherine Lord) @ Colston Hall, Bristol (UK). 
 
-# Vocal
+</details>
+
+<details class="works-group">
+<summary>Vocal</summary>
 
 #### Shilly Shally *(2021)*
 **Soprano & Piano**  
@@ -326,8 +339,8 @@ Duration: ca. 6’
 #### Coming ‘Round Again *(2017)*
 **SSA, Percussion, Piano**  
 Duration: ca. 4’
-: Commissioned by the Liverpool Philharmonic Youth Choir.
 : Text by Matthew Hill.
+: Commissioned by the Liverpool Philharmonic Youth Choir.
 : First performed on 2 July 2017 by the Liverpool Philharmonic Youth Choir @ Royal Philharmonic Hall, Liverpool (UK). 
 
 #### Walk With Me *(2014)*
@@ -346,5 +359,7 @@ Duration: ca. 3’
 Duration: ca. 5’30
 : Text by Laurence Binyon.
 : First performed on 12 November 2006 by Jessica Radcliffe @ Wells Cathedral School, Somerset (UK). 
+
+</details>
 
 </div>
