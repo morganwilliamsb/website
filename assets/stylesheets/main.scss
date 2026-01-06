@@ -37,59 +37,61 @@
   }
 }
 
-/* ===== Works page refinements ===== */
+/* ===== Works page refinements (clean) ===== */
 
-.works-list h2 {
+.page-content .works-list h2 {
   margin-top: 2.5rem;
   margin-bottom: 1.25rem;
 }
 
-/* Make headings bigger so the “content” feels smaller by comparison */
-.works-list h4 {
-  font-size: 1.35rem;   /* bigger piece title */
+.page-content .works-list h4 {
+  font-size: 1.35rem;
   font-weight: 650;
   margin: 0 0 0.35rem 0;
 }
 
-/* Lighten the year when written like: #### Skyppan *(2024)* */
-.works-list h4 em {
+.page-content .works-list h4 em {
   font-style: normal;
   font-weight: 400;
   opacity: 0.65;
 }
 
-/* ---- Kill gaps inside each entry ---- */
-
-/* No bottom margin on instrumentation paragraph */
-.works-list h4 + p {
+/* ----- NO internal gaps ----- */
+.page-content .works-list p,
+.page-content .works-list dl,
+.page-content .works-list dt,
+.page-content .works-list dd {
   margin: 0;
+  padding: 0;
 }
 
-/* No gap between instrumentation paragraph and the very next paragraph (Duration) */
-.works-list h4 + p + p {
-  margin: 0;
+/* Hide the empty dt that kramdown creates for ": ..." definition lists */
+.page-content .works-list dt {
+  display: none;
 }
 
-/* Optional: if your Duration is the second paragraph, make it slightly smaller */
-.works-list h4 + p + p {
-  font-size: 0.98em;   /* same scale as metadata */
+/* Instrumentation (first paragraph after title) */
+.page-content .works-list h4 + p {
+  margin: 0;
+  font-weight: 600;
+}
+
+/* Duration (second paragraph after title) */
+.page-content .works-list h4 + p + p {
+  margin: 0;
+  font-size: 0.98em;  /* same scale as metadata */
   opacity: 0.9;
+  font-weight: 500;
 }
 
-/* Definition list: remove “airy” spacing */
-.works-list dl {
-  margin: 0.35rem 0 1.6rem 0; /* small gap above metadata, BIG gap after entry */
-}
-
-.works-list dd {
-  margin: 0;           /* remove vertical gaps between metadata lines */
-  padding-left: 0;
-  margin-left: 0;
+/* Metadata: tight lines */
+.page-content .works-list dd {
+  line-height: 1.35;
   font-size: 0.98em;
   opacity: 0.9;
 }
 
-/* Remove any extra spacing between dd rows */
-.works-list dd + dd {
-  margin-top: 0;
+/* THE ONLY spacing: between entries */
+.page-content .works-list dl {
+  margin: 0.35rem 0 1.8rem 0; /* tiny gap before metadata, big gap after entry */
 }
