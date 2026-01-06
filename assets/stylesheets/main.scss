@@ -128,14 +128,102 @@
   margin: 0.35rem 0 1.8rem 0;
 }
 
-/* ===== Works page: hover cue matches site (red) ===== */
+/* ===== Works page: hover cue (no weird mobile hover) ===== */
 
 .works-group summary {
   transition: color 0.15s ease;
 }
 
-/* hover (desktop) + keyboard focus */
-.works-group summary:hover,
+/* keyboard focus (all devices) */
 .works-group summary:focus-visible {
   color: var(--link-color, #b30000);
+}
+
+/* hover only on devices that truly support hover (desktop/trackpad/mouse) */
+@media (hover: hover) and (pointer: fine) {
+  .works-group summary:hover {
+    color: var(--link-color, #b30000);
+  }
+}
+
+/* ===== Print styles (PDF-friendly) ===== */
+@media print {
+  /* Use the full page width and keep text crisp */
+  body {
+    background: #fff !important;
+  }
+
+  /* Expand ALL collapsible sections in print */
+  .works-group {
+    border-top: 1px solid #bbb;
+    padding-top: 0.6rem;
+    margin: 1.2rem 0;
+    page-break-inside: avoid;
+  }
+
+  /* Ensure details content prints even if collapsed */
+  details.works-group {
+    display: block;
+  }
+  details.works-group > summary {
+    display: list-item; /* keeps summary visible as a heading-like line */
+  }
+  details.works-group:not([open]) > *:not(summary) {
+    display: block !important;
+  }
+
+  /* Section headers */
+  .works-group summary {
+    color: #000 !important;
+    cursor: default !important;
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: 0;
+    margin: 0 0 0.6rem 0;
+  }
+
+  /* Remove hover behaviours / animations in print */
+  .works-group summary,
+  a {
+    transition: none !important;
+  }
+
+  /* Prevent awkward breaks inside a single work entry */
+  .page-content .works-list h4,
+  .page-content .works-list dl {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Slightly tighten spacing for paper */
+  .page-content .works-list dl {
+    margin: 0.25rem 0 1.1rem 0;
+  }
+
+  /* Avoid printing coloured link styling; optionally show URLs */
+  a,
+  a:visited {
+    color: #000 !important;
+    text-decoration: underline;
+  }
+
+  /* Optional: show link URLs after link text (uncomment if you want it) */
+  /*
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.85em;
+    word-break: break-all;
+  }
+  */
+
+  /* Don’t print navigation / footer clutter if present */
+  .site-header,
+  .site-footer,
+  .pagination,
+  .search-content,
+  .greedy-nav,
+  .page__share,
+  .page__related {
+    display: none !important;
+  }
 }
