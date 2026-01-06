@@ -30,7 +30,7 @@ Duration: ca. 5’
 **Oboe**  
 Duration: ca. 8′
 : Written for Elen Morgan-Williams.
-: First performed on 3 June 2021 by Elen Morgan-Williams @ Guildhall School of Music & Drama, Londo (UK). 
+: First performed on 3 June 2021 by Elen Morgan-Williams @ Guildhall School of Music & Drama, London (UK). 
 
 #### Gêmdisyn *(2020)*
 **Clarinet in Eb**  
@@ -151,7 +151,7 @@ Duration: ca. 14’30”
 **String Quartet**  
 Duration: ca. 11′
 : Commissioned by the Royal Philharmonic Society through the Susan Bradshaw Composers Fund.
-: First performed on 11 July 2018 by the Ligeti Quartet @ Cheltenham Music Festival, Chapel Arts Cheltenham (UK).
+: First performed on 11 July 2018 by the Ligeti Quartet @ Cheltenham Music Festival – Chapel Arts, Cheltenham (UK).
 
 #### Traces of a Disco *(2018)*
 **Cimbalom, Bass Clarinet in Bb, Double Bass**  
@@ -273,8 +273,7 @@ Duration: ca. 6’
 **3333 / 4331 / 1T 2P 1Cel 1Hp / 14.12.10.8.6**  
 Duration: ca. 4’
 : Commissioned by the London Symphony Orchestra through the LSO Discovery Panufnik Composers Scheme, supported by the Helen Hamlyn Trust. 
-: First performed on 11 March 2016 by the London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s, London (UK). 
-: Recorded by LSO Live on disk _Panufnik Legacies III_. 
+: First performed on 11 March 2016 by the London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s, London (UK). Recorded by LSO Live on disk _Panufnik Legacies III_. 
 
 #### Harangue *(2014)*
 **4243 / 311 / 1T 3P 1Pno 1BG 1Cel 1Hp / Solo Hn / 10.8.6.4.2**  
