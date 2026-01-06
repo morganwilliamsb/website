@@ -37,53 +37,53 @@
   }
 }
 
-/* ===== Works page: refined collapsible sections (mobile-first) ===== */
+/* ===== Works page: accordion styling (no indent, clear hierarchy) ===== */
 
 .works-group {
-  margin: 1.75rem 0;
-  border: 1px solid #e3e3e3;
-  border-radius: 10px;
-  background: #fff;
-  overflow: hidden;
+  margin: 2rem 0;
+  padding-top: 1rem;
+  border-top: 2px solid #e5e5e5; /* simple section separation (not boxy) */
 }
 
-/* Section headers (summary) */
+/* clickable section header */
 .works-group summary {
-  padding: 0.85rem 1rem;
-  font-size: 1.2rem;      /* comfortable on mobile */
-  font-weight: 700;
+  padding: 0;
+  margin: 0;
+  font-size: 1.6rem;      /* larger than piece titles */
+  font-weight: 800;
   cursor: pointer;
-  background: transparent; /* remove blocky grey look */
   list-style: none;
+  letter-spacing: 0.02em;
 }
 
-/* Remove default disclosure triangle */
+/* remove default disclosure triangle (Safari/Chrome) */
 .works-group summary::-webkit-details-marker {
   display: none;
 }
 
-/* Subtle divider when open */
+/* space between header and first item when open */
 .works-group[open] summary {
-  border-bottom: 1px solid #eee;
+  margin-bottom: 0.9rem;
 }
 
-/* Spacing inside open sections (prevents “touching”) */
-.works-group[open] > *:not(summary) {
-  padding: 0.75rem 1rem 1.25rem;
+/* IMPORTANT: do NOT pad content (prevents indentation of piece titles) */
+.works-group > *:not(summary) {
+  padding: 0;
 }
 
-/* Desktop refinement */
-@media (min-width: 900px) {
+/* Mobile tuning */
+@media (max-width: 900px) {
   .works-group summary {
-    font-size: 1.6rem;
-    letter-spacing: 0.02em;
+    font-size: 1.45rem;
+    letter-spacing: 0.01em;
   }
 }
 
 /* ===== Works page typography refinements ===== */
 
+/* Piece titles */
 .page-content .works-list h4 {
-  font-size: 1.35rem;
+  font-size: 1.2rem;   /* smaller than section headers */
   font-weight: 650;
   margin: 0 0 0.35rem 0;
 }
