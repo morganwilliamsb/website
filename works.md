@@ -4,7 +4,9 @@ layout: page
 introduction: Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
 ---
 
-## Solo
+<div class="works-list" markdown="1">
+  
+  ## Solo
 
 #### Skyppan *(2024)*
 **Basset Clarinet**  
@@ -347,3 +349,5 @@ Duration: ca. 3’
 Duration: ca. 5’30
 : Text by Laurence Binyon.
 : First performed on 12 November 2006 by Jessica Radcliffe @ Wells Cathedral School (UK). 
+
+</div>
