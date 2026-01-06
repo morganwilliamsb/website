@@ -228,12 +228,10 @@
   }
 }
 
-/* Make all intro paragraphs the same size (Basically Basic) */
-header.intro p {
-  font-size: inherit;
+/* ===== Intro: make all introduction paragraphs the same size ===== */
+/* Targets Basically Basic's lead paragraph class and its siblings */
+.page__lead,
+.page__lead + p {
+  font-size: 1.1em !important;
+  line-height: 1.6;
 }
-
-header.intro p + p {
-  font-size: inherit;
-}
-
