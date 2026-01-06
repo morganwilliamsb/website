@@ -85,13 +85,14 @@
 /* Instrumentation (first paragraph after title) */
 .page-content .works-list h4 + p {
   margin: 0;
-  font-weight: 600;
+  opacity: 0.72;
+  font-weight: 500;
 }
 
 /* Duration (second paragraph after title) */
 .page-content .works-list h4 + p + p {
   margin: 0;
-  font-size: 0.98em;  /* same scale as metadata */
+  font-size: 0.98;  /* same scale as metadata */
   opacity: 0.72;
   font-weight: 400;
 }
@@ -99,7 +100,7 @@
 /* Metadata: tight lines */
 .page-content .works-list dd {
   line-height: 1.35;
-  font-size: 0.98em;
+  font-size: 0.98;
   opacity: 0.9;
 }
 
