@@ -127,3 +127,37 @@
 .page-content .works-list dl {
   margin: 0.35rem 0 1.8rem 0;
 }
+
+/* ===== Works page: hover & focus cue for section headers ===== */
+
+.works-group summary {
+  position: relative;
+  transition: color 0.15s ease;
+}
+
+/* underline rule (hidden by default) */
+.works-group summary::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.25rem;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+  opacity: 0;
+  transform: scaleX(0.85);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+/* hover + keyboard focus */
+.works-group summary:hover,
+.works-group summary:focus-visible {
+  color: #666;
+}
+
+.works-group summary:hover::after,
+.works-group summary:focus-visible::after {
+  opacity: 1;
+  transform: scaleX(1);
+}
+
