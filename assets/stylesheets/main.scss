@@ -65,9 +65,21 @@
   padding: 0;
 }
 
-/* Hide the empty dt that kramdown creates for ": ..." definition lists */
+/* Definition list "term" (this is your instrumentation line) */
 .page-content .works-list dt {
-  display: none;
+  display: block;
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 600;
+}
+
+/* Keep definitions tight (your metadata lines) */
+.page-content .works-list dd {
+  margin: 0;
+  padding: 0;
+  line-height: 1.35;
+  font-size: 0.98em;
+  opacity: 0.9;
 }
 
 /* Instrumentation (first paragraph after title) */
