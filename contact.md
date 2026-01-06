@@ -26,4 +26,4 @@ For score hire or purchase, commissions, collaborations, or general enquiries, p
 
 ## Printing & Suppliers
 
-Bethan’s scores are printed by **[PMBS Music Printing] (https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians. 
+Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
