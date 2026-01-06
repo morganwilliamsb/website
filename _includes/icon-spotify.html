@@ -1,0 +1,5 @@
+
+<a href="{{ include.url | default: site.spotify_url }}" target="_blank" rel="noopener">
+  <span class="icon icon--spotify">{% include icon-spotify.svg %}</span>
+  <span class="label">{{ include.label | default: "Spotify" }}</span>
+</a>
