@@ -322,8 +322,7 @@ Duration: ca. 5′
 Duration: ca. 6’
 : Text by Stan Kelly.
 : Commissioned by Sandra Parr.
-: First performed on 29 September 2019 by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK). 
-: Recorded by Rubicon Classics on disk _A Love Letter To Liverpool_ 
+: First performed on 29 September 2019 by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK). Recorded by Rubicon Classics on disk _A Love Letter To Liverpool_ 
 
 #### Coming ‘Round Again *(2017)*
 **SSA, Percussion, Piano**  
