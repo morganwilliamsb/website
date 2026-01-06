@@ -170,7 +170,7 @@ January 2025
 : Composer Collider Europe, Phase 8 (Köln, DE).
 
 23 October 2020
-:Performance of _In the Crypt_ by Ben Goldscheider & Pete Stollery @ Sound Festival 2020 (Aberdeen, UK).
+: Performance of _In the Crypt_ by Ben Goldscheider & Pete Stollery @ Sound Festival 2020 (Aberdeen, UK).
 
 5 October 2020
 : World premiere of _Demeter’s Cry_ by Fenella Humphreys, Iñigo Mikeleiz Berrade, Ben Griffiths & George Barton @ Chiltern Arts Festival (Henley-on-Thames, UK).
