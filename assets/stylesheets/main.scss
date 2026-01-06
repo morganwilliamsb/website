@@ -37,52 +37,50 @@
   }
 }
 
-/* ===== Works page: collapsible sections ===== */
+/* ===== Works page: refined collapsible sections (mobile-first) ===== */
 
 .works-group {
-  margin: 2.5rem 0;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  margin: 1.75rem 0;
+  border: 1px solid #e3e3e3;
+  border-radius: 10px;
+  background: #fff;
   overflow: hidden;
 }
 
+/* Section headers (summary) */
 .works-group summary {
-  padding: 1rem 1.25rem;
-  font-size: 1.35rem;
-  font-weight: 600;
+  padding: 0.85rem 1rem;
+  font-size: 1.2rem;      /* comfortable on mobile */
+  font-weight: 700;
   cursor: pointer;
-  background: #f6f6f6;
+  background: transparent; /* remove blocky grey look */
   list-style: none;
 }
 
+/* Remove default disclosure triangle */
 .works-group summary::-webkit-details-marker {
   display: none;
 }
 
+/* Subtle divider when open */
 .works-group[open] summary {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #eee;
 }
 
-/* padding for content inside open sections */
-.works-group > *:not(summary) {
-  padding: 0 1.25rem 1.25rem;
+/* Spacing inside open sections (prevents “touching”) */
+.works-group[open] > *:not(summary) {
+  padding: 0.75rem 1rem 1.25rem;
 }
 
-/* ===== Works page: stronger section headers on desktop ===== */
-
+/* Desktop refinement */
 @media (min-width: 900px) {
   .works-group summary {
-    font-size: 1.75rem;
+    font-size: 1.6rem;
     letter-spacing: 0.02em;
   }
 }
 
-/* ===== Works page refinements (clean) ===== */
-
-.page-content .works-list h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1.25rem;
-}
+/* ===== Works page typography refinements ===== */
 
 .page-content .works-list h4 {
   font-size: 1.35rem;
@@ -96,8 +94,7 @@
   opacity: 0.72;
 }
 
-/* ----- NO internal gaps ----- */
-
+/* Remove internal spacing clutter */
 .page-content .works-list p,
 .page-content .works-list dl,
 .page-content .works-list dt,
@@ -106,30 +103,27 @@
   padding: 0;
 }
 
-/* Definition list "term" (instrumentation line) */
+/* Instrumentation line */
 .page-content .works-list dt {
   display: block;
-  margin: 0;
   font-size: 1.05em;
   font-weight: 600;
 }
 
-/* Instrumentation (first paragraph after title) */
+/* Instrumentation paragraph */
 .page-content .works-list h4 + p {
-  margin: 0;
   opacity: 0.72;
   font-weight: 400;
 }
 
-/* Duration (second paragraph after title) */
+/* Duration line */
 .page-content .works-list h4 + p + p {
-  margin: 0;
-  font-size: 0.98em;  /* ← FIXED: added unit */
+  font-size: 0.98em;
   opacity: 0.72;
   font-weight: 400;
 }
 
-/* THE ONLY spacing: between entries */
+/* Space between works only */
 .page-content .works-list dl {
   margin: 0.35rem 0 1.8rem 0;
 }
