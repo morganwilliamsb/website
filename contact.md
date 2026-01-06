@@ -3,6 +3,18 @@ title: "Contact"
 layout: page
 ---
 
+For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
+
+**morganwilliamsbethan@gmail.com**
+
+---
+
+## Printing
+
+Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
+
+---
+
 ## Testimonials
 
 > “An exacting musician with very high standards and an exceptional ear. A pleasure to work with.”  
@@ -13,17 +25,3 @@ layout: page
 
 > “It’s a pleasure to work with somebody who knows their music so well and who is so attentive.”  
 > — **Daniel Agi**, flautist, hand werk & Das Neue Ensemble
-
----
-
-## Printing
-
-Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
-
----
-
-## Contact
-
-For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
-
-**morganwilliamsbethan@gmail.com**
