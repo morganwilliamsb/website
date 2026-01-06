@@ -37,6 +37,37 @@
   }
 }
 
+/* ===== Works page: collapsible sections ===== */
+
+.works-group {
+  margin: 2.5rem 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.works-group summary {
+  padding: 1rem 1.25rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: #f6f6f6;
+  list-style: none;
+}
+
+.works-group summary::-webkit-details-marker {
+  display: none;
+}
+
+.works-group[open] summary {
+  border-bottom: 1px solid #ddd;
+}
+
+/* padding for content inside open sections */
+.works-group > *:not(summary) {
+  padding: 0 1.25rem 1.25rem;
+}
+
 /* ===== Works page refinements (clean) ===== */
 
 .page-content .works-list h2 {
@@ -57,6 +88,7 @@
 }
 
 /* ----- NO internal gaps ----- */
+
 .page-content .works-list p,
 .page-content .works-list dl,
 .page-content .works-list dt,
@@ -65,7 +97,7 @@
   padding: 0;
 }
 
-/* Definition list "term" (this is your instrumentation line) */
+/* Definition list "term" (instrumentation line) */
 .page-content .works-list dt {
   display: block;
   margin: 0;
@@ -83,12 +115,12 @@
 /* Duration (second paragraph after title) */
 .page-content .works-list h4 + p + p {
   margin: 0;
-  font-size: 0.98;  /* same scale as metadata */
+  font-size: 0.98em;  /* ← FIXED: added unit */
   opacity: 0.72;
   font-weight: 400;
 }
 
 /* THE ONLY spacing: between entries */
 .page-content .works-list dl {
-  margin: 0.35rem 0 1.8rem 0; /* tiny gap before metadata, big gap after entry */
+  margin: 0.35rem 0 1.8rem 0;
 }
