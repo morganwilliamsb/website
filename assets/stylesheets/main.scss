@@ -6,12 +6,10 @@
 
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-
 @import "basically-basic";
 
 /* ===== Biography: header on mobile, portrait on desktop ===== */
 
-/* Desktop: hide Biography header image, show Biography portrait */
 @media (min-width: 901px) {
   body.layout--about .intro-image {
     display: none;
@@ -27,7 +25,6 @@
   }
 }
 
-/* Mobile: show Biography header image, hide Biography portrait */
 @media (max-width: 900px) {
   body.layout--about .page-content img.bio-portrait {
     display: none;
@@ -40,64 +37,65 @@
   }
 }
 
-/* ===== Works page typography & hierarchy ===== */
+/* ===== Works page refinements ===== */
 
 .works-list h2 {
-  font-size: 1.65em;        /* section headings */
-  margin-top: 2.75rem;
-  margin-bottom: 1.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 
+/* Work title */
 .works-list h4 {
-  font-size: 1.35em;        /* work titles */
   font-weight: 600;
-  margin-bottom: 0.45rem;
+  font-size: 1.35em;       /* make titles clearly larger */
+  margin: 0 0 0.35rem 0;   /* tight but readable */
 }
 
-/* Lighten the year: #### Title *(2024)* */
+/* Lighten year: #### Title *(2024)* */
 .works-list h4 em {
   font-style: normal;
   font-weight: 400;
   opacity: 0.65;
 }
 
-/* Instrumentation (first paragraph after title) */
+/* ===== Instrumentation + Duration ===== */
+
+/* Instrumentation line */
 .works-list h4 + p {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 1.08em;        /* slightly larger than body */
-  font-weight: 500;
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 600;
 }
 
-/* Duration (second paragraph after title) */
+/* Duration line (plain text, same size as instrumentation) */
 .works-list h4 + p + p {
-  margin-top: 0;
-  margin-bottom: 0.6rem;
-  font-size: 1em;           /* body text size */
-  font-weight: 500;
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 600;
   opacity: 0.85;
 }
 
-/* ===== Works metadata (definition lists) ===== */
+/* ===== Metadata (definition list) ===== */
 
+/* NO gap before metadata */
 .works-list p + dl {
-  margin-top: 0.3rem;
+  margin-top: 0;
 }
 
-/* Controls spacing BETWEEN entries */
+/* Metadata block = end of entry */
 .works-list dl {
-  margin: 0 0 2rem 0;       /* clear block separation */
+  margin: 0 0 1.6rem 0;   /* <-- THIS controls space between entries */
 }
 
-/* Metadata lines */
+/* Metadata lines: completely tight */
 .works-list dd {
-  margin: 0.15rem 0;
-  padding-left: 0;
-  margin-left: 0;
-  font-size: 1em;           /* body text */
+  margin: 0;
+  padding: 0;
+  font-size: 0.95em;
   opacity: 0.9;
 }
 
+/* No extra spacing between metadata rows */
 .works-list dd + dd {
-  margin-top: 0.3rem;
+  margin-top: 0;
 }
