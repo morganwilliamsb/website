@@ -1,12 +1,13 @@
 ---
 title: "List of Works"
 layout: page
-introduction: Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
 ---
 
 <div class="works-list" markdown="1">
   
-  ## Solo
+Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
+
+# Solo
 
 #### Skyppan *(2024)*
 **Basset Clarinet**  
@@ -80,7 +81,7 @@ Duration: ca. 3’30″
 Duration: ca. 4′
 : Written for Antonella Haywood. 
 
-## Chamber
+# Chamber
 
 #### Trying to Use Words *(2025)*
 **Singing Harpist & Dancer**  
@@ -207,7 +208,7 @@ Duration: ca. 6’30”
 Duration: ca. 2′
 : First performed in August 2002 by Catherine Lord, Katie Sharp, Ben Weedon, David Heyes, Alfie Weedon & Bethan Morgan-Williams @ Bryanston College (UK). 
 
-## Ensemble
+# Ensemble
 
 #### Digon! *(2025)*
 **Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello**  
@@ -250,7 +251,7 @@ Duration: ca. 12’
 : Commissioned by the Royal Liverpool Philharmonic Orchestra through the Christopher Brooks Composition Prize, supported by the Rushworth Foundation. 
 : First performed on 26 October 2016 by Ensemble 10/10 & Clark Rundell @ St. George’s Hall Liverpool (UK). 
 
-## Orchestra
+# Orchestra
 
 #### Parti Di-ffiniau *(2022)*
 **3333 / 4331 / 1T 3P 1Pno 1Hp / 12.10.8.6.4**  
@@ -302,7 +303,7 @@ Duration: ca. 7’30”
 Duration: ca. 5’
 : First performed in June 2005 by the Wells Cathedral School String Ensemble & Catherine Lord @ Colston Hall (Bristol, UK). 
 
-## Vocal
+# Vocal
 
 #### Shilly Shally *(2021)*
 **Soprano & Piano**  
