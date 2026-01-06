@@ -8,6 +8,11 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 @import "basically-basic";
 
+/* Make all introduction paragraphs the same size */
+.page-intro p {
+  font-size: inherit;
+}
+
 /* ===== Biography: header on mobile, portrait on desktop ===== */
 
 @media (min-width: 901px) {
