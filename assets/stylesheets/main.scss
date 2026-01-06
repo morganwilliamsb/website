@@ -33,7 +33,6 @@
     display: none;
   }
 
-  /* Match homepage header behavior: fluid height based on image aspect ratio */
   body.layout--about .intro-image img {
     width: 100%;
     height: auto;
@@ -41,77 +40,64 @@
   }
 }
 
-/* ===== Works page refinements ===== */
+/* ===== Works page typography & hierarchy ===== */
 
 .works-list h2 {
-  margin-top: 2.5rem;     /* space before each section heading */
-  margin-bottom: 1.25rem; /* space under section headings */
+  font-size: 1.65em;        /* section headings */
+  margin-top: 2.75rem;
+  margin-bottom: 1.4rem;
 }
 
 .works-list h4 {
-  font-weight: 600;       /* piece title weight */
-  margin-bottom: 0.5rem;  /* gap between title and instrumentation */
+  font-size: 1.35em;        /* work titles */
+  font-weight: 600;
+  margin-bottom: 0.45rem;
 }
 
-/* Tighten the space above the instrumentation line (paragraph after h4) */
-.works-list h4 + p {
-  margin-top: 0;
-}
-
-/* Reduce space after instrumentation + duration paragraphs */
-.works-list p {
-  margin-bottom: 0.35rem;
-}
-
-/* NEW: No gap between instrumentation and duration */
-.works-list p + p {
-  margin-top: 0;
-}
-
-/* Lighten the year when you write it like: #### Skyppan *(2024)* */
+/* Lighten the year: #### Title *(2024)* */
 .works-list h4 em {
-  font-style: normal; /* cancel italics */
+  font-style: normal;
   font-weight: 400;
   opacity: 0.65;
 }
 
-/* ===== Works: highlight Duration line ===== */
-/* Duration is the italic line: *Duration: ...* (paragraph after instrumentation) */
-.works-list p + p em {
-  display: inline-block;
-  margin-top: 0.15rem;
-  margin-bottom: 0.6rem;      /* space before metadata */
-  padding: 0.2rem 0.55rem;
-  border-radius: 999px;       /* pill shape */
-  border: 1px solid rgba(0, 0, 0, 0.12);
-  font-style: normal;         /* remove italics visually */
-  font-weight: 600;
-  opacity: 0.9;
+/* Instrumentation (first paragraph after title) */
+.works-list h4 + p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.08em;        /* slightly larger than body */
+  font-weight: 500;
+}
+
+/* Duration (second paragraph after title) */
+.works-list h4 + p + p {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: 1em;           /* body text size */
+  font-weight: 500;
+  opacity: 0.85;
 }
 
 /* ===== Works metadata (definition lists) ===== */
 
-/* Space between instrumentation/duration block and metadata list */
 .works-list p + dl {
-  margin-top: 0.4rem;
+  margin-top: 0.3rem;
 }
 
-/* Definition list container (controls separation between works) */
-/* NEW: Increase the gap between entries */
+/* Controls spacing BETWEEN entries */
 .works-list dl {
-  margin: 0 0 1.75rem 0; /* bigger space after each piece block */
+  margin: 0 0 2rem 0;       /* clear block separation */
 }
 
-/* Individual metadata lines */
+/* Metadata lines */
 .works-list dd {
-  margin: 0.1rem 0;     /* tighter line spacing within metadata */
-  padding-left: 0;      /* remove default indent */
-  margin-left: 0;       /* remove default indent */
-  font-size: 0.98em;    /* slightly smaller than instrumentation */
+  margin: 0.15rem 0;
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 1em;           /* body text */
   opacity: 0.9;
 }
 
-/* Slightly more space between metadata rows */
 .works-list dd + dd {
   margin-top: 0.3rem;
 }
