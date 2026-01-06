@@ -71,31 +71,6 @@
 .works-list h4 + p + p {
   margin: 0;
   font-size: 1.05em;
-  font-weight: 600;
+  font-weight: 500;
   opacity: 0.85;
-}
-
-/* ===== Metadata (definition list) ===== */
-
-/* NO gap before metadata */
-.works-list p + dl {
-  margin-top: 0;
-}
-
-/* Metadata block = end of entry */
-.works-list dl {
-  margin: 0 0 1.6rem 0;   /* <-- THIS controls space between entries */
-}
-
-/* Metadata lines: completely tight */
-.works-list dd {
-  margin: 0;
-  padding: 0;
-  font-size: 0.95em;
-  opacity: 0.9;
-}
-
-/* No extra spacing between metadata rows */
-.works-list dd + dd {
-  margin-top: 0;
 }
