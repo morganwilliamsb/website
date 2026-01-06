@@ -42,8 +42,7 @@ Duration: ca. 9′
 **Violin**  
 Duration: ca. 30″
 : Written for Fenella Humphreys.
-: First performed on 10 June 2020 by Fenella Humphreys @ Homemade Concert #14 at Youtube (London, UK). 
-: Recorded by Rubicon Classics on disk _Prism._
+: First performed on 10 June 2020 by Fenella Humphreys @ Homemade Concert #14 at Youtube (London, UK). Recorded by Rubicon Classics on disk _Prism._
 
 #### In Sleep Braces *(2018)*
 **Organ**  
