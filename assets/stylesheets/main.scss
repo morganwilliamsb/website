@@ -68,6 +68,15 @@
   padding: 0 1.25rem 1.25rem;
 }
 
+/* ===== Works page: stronger section headers on desktop ===== */
+
+@media (min-width: 900px) {
+  .works-group summary {
+    font-size: 1.75rem;
+    letter-spacing: 0.02em;
+  }
+}
+
 /* ===== Works page refinements (clean) ===== */
 
 .page-content .works-list h2 {
