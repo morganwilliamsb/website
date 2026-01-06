@@ -44,58 +44,52 @@
   margin-bottom: 1.25rem;
 }
 
-/* Work title */
+/* Make headings bigger so the “content” feels smaller by comparison */
 .works-list h4 {
-  font-weight: 600;
-  font-size: 1.35em;       /* make titles clearly larger */
-  margin: 0 0 0.35rem 0;   /* tight but readable */
+  font-size: 1.35rem;   /* bigger piece title */
+  font-weight: 650;
+  margin: 0 0 0.35rem 0;
 }
 
-/* Lighten year: #### Title *(2024)* */
+/* Lighten the year when written like: #### Skyppan *(2024)* */
 .works-list h4 em {
   font-style: normal;
   font-weight: 400;
   opacity: 0.65;
 }
 
-/* ===== Instrumentation + Duration ===== */
+/* ---- Kill gaps inside each entry ---- */
 
-/* Instrumentation line */
+/* No bottom margin on instrumentation paragraph */
 .works-list h4 + p {
   margin: 0;
-  font-size: 1.05em;
-  font-weight: 600;
 }
 
-/* Duration line (plain text, same size as instrumentation) */
+/* No gap between instrumentation paragraph and the very next paragraph (Duration) */
 .works-list h4 + p + p {
   margin: 0;
-  font-size: 1.05em;
-  font-weight: 600;
-  opacity: 0.85;
 }
 
-/* ===== Metadata (definition list) ===== */
-
-/* NO gap before metadata */
-.works-list p + dl {
-  margin-top: 0;
-}
-
-/* Metadata block = end of entry */
-.works-list dl {
-  margin: 0 0 1.6rem 0;   /* <-- THIS controls space between entries */
-}
-
-/* Metadata lines: completely tight */
-.works-list dd {
-  margin: 0;
-  padding: 0;
-  font-size: 0.95em;
+/* Optional: if your Duration is the second paragraph, make it slightly smaller */
+.works-list h4 + p + p {
+  font-size: 0.98em;   /* same scale as metadata */
   opacity: 0.9;
 }
 
-/* No extra spacing between metadata rows */
+/* Definition list: remove “airy” spacing */
+.works-list dl {
+  margin: 0.35rem 0 1.6rem 0; /* small gap above metadata, BIG gap after entry */
+}
+
+.works-list dd {
+  margin: 0;           /* remove vertical gaps between metadata lines */
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 0.98em;
+  opacity: 0.9;
+}
+
+/* Remove any extra spacing between dd rows */
 .works-list dd + dd {
   margin-top: 0;
 }
