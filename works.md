@@ -76,9 +76,9 @@ Duration: ca. 8’
 **Percussion**  
 Duration: ca. 3’30”
 
+: Instrumentation: saron, snare drum, splash cymbal. 
 : Written for Delia Stevens.
 : First performed on 30 October 2013 by Delia Stevens (House of Bedlam) @ Royal Northern College of Music (Manchester, UK). 
-: Instrumentation: saron, snare drum, splash cymbal. 
 
 #### Minstrels On Their Way Home (A Tribute to Debussy) *(2013)*
 **Piano**  
