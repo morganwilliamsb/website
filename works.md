@@ -1,10 +1,6 @@
 ---
 title: "List of Works"
 layout: page
-introduction: |
-  Here you will find a complete list of Bethan’s works, all of which are available for purchase or hire directly from the composer. For enquiries about performing a work, obtaining materials, or discussing specific requirements not listed, please contact Bethan directly at morganwilliamsbethan@gmail.com.
-
-  Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
 ---
 
 <div class="works-list" markdown="1">
