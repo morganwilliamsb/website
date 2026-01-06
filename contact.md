@@ -3,14 +3,6 @@ title: "Contact"
 layout: page
 ---
 
-## Contact
-
-For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
-
-**morganwilliamsbethan@gmail.com**
-
----
-
 ## Testimonials
 
 > “An exacting musician with very high standards and an exceptional ear. A pleasure to work with.”  
@@ -27,3 +19,9 @@ For score hire or purchase, commissions, collaborations, or general enquiries, p
 ## Printing & Suppliers
 
 Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
+
+## Contact
+
+For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
+
+**morganwilliamsbethan@gmail.com**
