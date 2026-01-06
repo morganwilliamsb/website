@@ -11,8 +11,13 @@
     <li>{% include icon-soundcloud.html username=site.soundcloud_username label='SoundCloud' %}</li>
   {% endif %}
 
-  {% if site.youtube_username %}
-    <li>{% include icon-youtube.html username=site.youtube_username label='YouTube' %}</li>
+  {% if site.youtube_url %}
+    <li>
+      <a href="{{ site.youtube_url }}" target="_blank" rel="noopener">
+        <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
+        <span class="label">YouTube</span>
+      </a>
+    </li>
   {% endif %}
 
   {% if site.instagram_username %}
