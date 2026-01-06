@@ -1,4 +1,17 @@
-<a href="https://www.youtube.com/user/{{ include.username }}">
+{% assign u = include.username | strip %}
+
+{% if u contains "http://" or u contains "https://" %}
+  {% assign href = u %}
+{% elsif u contains "/channel/" %}
+  {% assign href = "https://www.youtube.com" | append: u %}
+{% elsif u startswith "@" %}
+  {% assign href = "https://www.youtube.com/" | append: u %}
+{% else %}
+  {%- comment -%} fallback for legacy usernames {%- endcomment -%}
+  {% assign href = "https://www.youtube.com/user/" | append: u %}
+{% endif %}
+
+<a href="{{ href }}" target="_blank" rel="noopener">
   <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
-  <span class="label">{{ include.label | default: include.username }}</span>
+  <span class="label">{{ include.label | default: "YouTube" }}</span>
 </a>
