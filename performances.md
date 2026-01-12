@@ -10,7 +10,7 @@ layout: page
 
 15 February 2026 
 : World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
-: About/tickets: tbc
+: About/tickets: [Relationships III – Bangor Music Festival](https://www.bangormusicfestival.org.uk/2026-2/)
 
 28 May 2026
 : Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
