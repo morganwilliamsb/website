@@ -4,9 +4,6 @@ layout: page
 ---
 
 ## Coming Up
-17 January 2026
-: World premiere of _Digon!_ by ensemble mosaik (cond. Enno Poppe) @ Ultraschall Berlin (DE)
-: About/tickets: [ensemble mosaik // Enno Poppe @ Radialsystem](https://ultraschallberlin.de/konzert/2026-01-17_ensemble-mosaik-poppe/)
 
 15 February 2026 
 : World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
@@ -19,6 +16,9 @@ layout: page
 -------------------------------------------------------------------------------
 
 ## Previous
+17 January 2026
+: World premiere of of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem Berlin (DE).
+
 21 September 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Plein Theater (Amsterdam, NL).
 
