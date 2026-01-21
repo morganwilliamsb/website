@@ -17,7 +17,7 @@ layout: page
 
 ## Previous
 17 January 2026
-: World premiere of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem Berlin (DE).
+: World premiere of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem (Berlin, DE).
 
 21 September 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Plein Theater (Amsterdam, NL).
@@ -50,7 +50,7 @@ January 2025
 : Performance of _Ffarwel i Uli_ by Hannah Weirich @ Koncertna Dvorana GŠ (Koper, SI). 
 
 23 November 2024
-: Performance of _Gormod_ by Ensemble Musikfabrik @ WDR Funkhaus (Köln, DE).
+: Performance of _Gormod_ by Ensemble Musikfabrik (cond. Gregor A. Mayrhofer) @ WDR Funkhaus (Köln, DE).
 
 3 November 2024 
 : Performance of _Gêmdisyn_ by Carl Rosman @ MUBA Chamber Music Hall (Tallinn, EE).
@@ -65,7 +65,7 @@ January 2025
 : Performance of _Ffarwel i Uli_ by Hannah Weirich @ Alte Kirche St. Martinus (Stommeln, DE).
 
 20 March 2024
-: World premiere of _Gormod_ by Ensemble Musikfabrik @ Radialsystem Berlin (DE).
+: World premiere of _Gormod_ by Ensemble Musikfabrik (cond. Gregor A. Mayrhofer) @ Radialsystem Berlin (DE).
 
 30 August 2023
 : World premiere of _Ffarwel i Uli_ by Hannah Weirich @ Studio des Ensemble Musikfabrik (Köln, DE).
@@ -89,7 +89,7 @@ January 2025
 : Performance of _In the Crypt_ by Ben Goldscheider and Richard Uttley @ University of London (UK).
 
 25 March 2023
-: Performance of _Gêmdis_ by Horia Dumitrache & Riot Ensemble @ MaerzMusik Festival (Berlin, DE).
+: Performance of _Gêmdis_ by Horia Dumitrache & Riot Ensemble (cond. Aaron Holloway-Nahum) @ MaerzMusik Festival (Berlin, DE).
 
 11 February 2023
 : UK premiere of _Gêmdisyn_ by Carl Rosman @ Clothworkers Centenary Concert Hall, University of Leeds (UK).
@@ -107,16 +107,16 @@ January 2025
 : World premiere of _Gêmdis_ by Ensemble Musikfabrik (cond. Christian Eggen) @ WDR Funkhaus (Köln, DE).
 
 1 June 2022
-: Performance of _Devil’s Elbow_ by Uproar Ensemble @ Klang Acousmonium (Montpellier, FR).
+: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Klang Acousmonium (Montpellier, FR).
 
 20 May 2022
-: Performance of _Devil’s Elbow_ by Uproar Ensemble @ Galeri (Caernarfon, UK).
+: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Galeri (Caernarfon, UK).
 
 12 May 2022
 : World premiere of _Voices Go With You_ by Psappha Ensemble @ Hallé St. Peter’s (Manchester, UK).
 
 8 May 2022
-: Performance of _Devil’s Elbow_ by Uproar Ensemble @ Arnolfini Arts (Bristol, UK).
+: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Arnolfini Arts (Bristol, UK).
 
 4 March 2022
 : World premiere of _Shivaree_ by Lucy Humphris @ Royal Academy of Music (London, UK).
@@ -194,10 +194,10 @@ January 2025
 : Composer Collider Europe, Phase 6 (online).
 
 13 March 2020
-: Performance of _Devil’s Elbow_ by Uproar Ensemble @ Aberystwyth Arts Centre (mid-Wales, UK).
+: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Aberystwyth Arts Centre (mid-Wales, UK).
 
 28 February 2020
-: World premiere of _Devil’s Elbow_ by Uproar Ensemble @ Chapter Arts (Cardiff, UK).
+: World premiere of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Chapter Arts (Cardiff, UK).
 
 5 February 2020
 : Performance of _A Thornbush In My Strength_ by Neil Percy @ LSO St. Luke’s (London, UK).
@@ -212,7 +212,7 @@ January 2025
 : Performance of _Double Double_ by Equilibrium Ensemble @ Leggate Theatre (Liverpool, UK).
 
 17 October 2019
-: Open workshop with Uproar Ensemble @ Bangor University (north-Wales, UK).
+: Open workshop with Uproar Ensemble (cond. Michael Rafferty) @ Bangor University (north-Wales, UK).
 
 30 September 2019
 : Performance of _arr. Liverpool Lullaby_ by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK).
@@ -233,7 +233,7 @@ January 2025
 : Performance of _Improvisation for Violin & Live Electronics_ by Bethan Morgan-Williams & Thomas Rydeard @ Korzo Theatre (Den Haag, NL).
 
 27 April 2019
-: _Scoot_ recording session with François-Xavier Roth & the London Symphony Orchestra @ LSO St. Luke’s (London, UK).
+: _Scoot_ recording session with London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s (London, UK).
 
 6-11 April 2019
 : Composer Collider Europe, Phase 4 (Köln, DE).
@@ -296,7 +296,7 @@ January 2025
 : Performance of _In the Crypt_ by Alex Edmundson & Bethan Morgan-Williams @ LSO St. Luke’s (London, UK).
 
 21 May 2017
-: World premiere of _The Promenaders_ by the Promenade Concert Orchestra @ The Platform (Morecambe, UK).
+: World premiere of _The Promenaders_ by the Promenade Concert Orchestra (cond. Howard Rogerson) @ The Platform (Morecambe, UK).
 
 9 May 2017
 : World premiere of _The Cross & The Albatross_ by Hugh Woolley & Stephen Giles @ Birmingham Conservatoire (UK).
@@ -305,19 +305,19 @@ January 2025
 : _In Kenopsia_ recording session with Psappha Ensemble @ Hallé St. Michael’s (Manchester, UK).
 
 17 February 2017
-: Performance of _KNO3_ by the Piccadilly Symphony Orchestra @ Manchester Communication Academy (Manchester, UK).
+: Performance of _KNO3_ by the Piccadilly Symphony Orchestra (cond. Tom Newall) @ Manchester Communication Academy (Manchester, UK).
 
 16 February 2017
-: UK premiere of _KNO3_ by the Piccadilly Symphony Orchestra @ Levenshulme High School (Manchester, UK).
+: UK premiere of _KNO3_ by the Piccadilly Symphony Orchestra (cond. Tom Newall) @ Levenshulme High School (Manchester, UK).
 
 26 October 2016
-: World premiere of _Mirages in Pisa_ by Ensemble 10/10 @ St. George’s Hall (Liverpool, UK).
+: World premiere of _Mirages in Pisa_ by Ensemble 10/10 (cond. Clark Rundell) @ St. George’s Hall (Liverpool, UK).
 
 30 July 2016
-: Performance of _KNO3_ by the Piccadilly Symphony Orchestra @ Wilderness Trail Distillery (KY, USA).
+: Performance of _KNO3_ by the Piccadilly Symphony Orchestra (cond. Xavier Cloete) @ Wilderness Trail Distillery (KY, USA).
 
 29 July 2016
-: World premiere of _KNO3_ by the Piccadilly Symphony Orchestra @ Norton Centre for the Arts (KY, USA).
+: World premiere of _KNO3_ by the Piccadilly Symphony Orchestra (cond. Xavier Cloete) @ Norton Centre for the Arts (KY, USA).
 
 16-31 July 2016
 : Composer in Residence at the International Conductor’s Festival @ Danville (KY, USA).
@@ -326,7 +326,7 @@ January 2025
 : MA Workshop: How to Write for the Violin, University of Salford (UK).
 
 11 March 2016
-: LSO Panufinik Workshop: _Scoot_ with François-Xavier Roth & the London Symphony Orchestra @ LSO St. Luke’s (London, UK).
+: LSO Panufinik Workshop: _Scoot_ with the London Symphony Orchestra (François-Xavier Roth) @ LSO St. Luke’s (London, UK).
 
 February 2016-July 2017
 : Young Composer in Residence with the Royal Liverpool Philharmonic Orchestra (winner of the Christopher Brooks Composition Prize).
