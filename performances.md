@@ -17,7 +17,7 @@ layout: page
 
 ## Previous
 17 January 2026
-: World premiere of of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem Berlin (DE).
+: World premiere of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem Berlin (DE).
 
 21 September 2025
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Plein Theater (Amsterdam, NL).
