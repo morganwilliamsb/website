@@ -5,10 +5,6 @@ layout: page
 
 ## Coming Up
 
-15 February 2026 
-: World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (UK)
-: About/tickets: [Relationships III @ Bangor Music Festival](https://www.pontio.co.uk/en/events/bangor-music-festival)
-
 28 May 2026
 : Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich (CH)
 : About/tickets: [Collegium Novum Zürich @ Brunnenhof](https://cnz.ch/ausschweifen) 
@@ -16,6 +12,9 @@ layout: page
 -------------------------------------------------------------------------------
 
 ## Previous
+15 February 2026
+: World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (Bangor, UK).
+
 17 January 2026
 : World premiere of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem (Berlin, DE).
 
@@ -65,7 +64,7 @@ January 2025
 : Performance of _Ffarwel i Uli_ by Hannah Weirich @ Alte Kirche St. Martinus (Stommeln, DE).
 
 20 March 2024
-: World premiere of _Gormod_ by Ensemble Musikfabrik (cond. Gregor A. Mayrhofer) @ Radialsystem Berlin (DE).
+: World premiere of _Gormod_ by Ensemble Musikfabrik (cond. Gregor A. Mayrhofer) @ Maerzmusik – Radialsystem (Berlin, DE).
 
 30 August 2023
 : World premiere of _Ffarwel i Uli_ by Hannah Weirich @ Studio des Ensemble Musikfabrik (Köln, DE).
@@ -83,16 +82,16 @@ January 2025
 : Open Space workshop (_Skyppan_) with Carl Rosman @ Lichtenbergschule (Darmstadt, DE).
 
 22 April 2023
-: Performance of _Walk With Me_ by Jessica Summers and Jelena Makarova @ Holy Trinity Church Hereford (UK).
+: Performance of _Walk With Me_ by Jessica Summers and Jelena Makarova @ Holy Trinity Church Hereford (Hereford, UK).
 
 28 March 2023
-: Performance of _In the Crypt_ by Ben Goldscheider and Richard Uttley @ University of London (UK).
+: Performance of _In the Crypt_ by Ben Goldscheider and Richard Uttley @ University of London (London, UK).
 
 25 March 2023
 : Performance of _Gêmdis_ by Horia Dumitrache & Riot Ensemble (cond. Aaron Holloway-Nahum) @ MaerzMusik Festival (Berlin, DE).
 
 11 February 2023
-: UK premiere of _Gêmdisyn_ by Carl Rosman @ Clothworkers Centenary Concert Hall, University of Leeds (UK).
+: UK premiere of _Gêmdisyn_ by Carl Rosman @ Clothworkers Centenary Concert Hall, University of Leeds (Leeds, UK).
 
 10 February 2023
 : Short presentation on recent works to postgraduate students at the Royal Northern College of Music (Manchester, UK).
@@ -146,7 +145,7 @@ January 2025
 : World premiere of _Gêmdisyn_ by Carl Rosman @ Lichtenbergschule (Darmstadt, DE).
 
 27 July 2021
-: Virtual premiere of _Shilly Shally_ by Sarah Dacey & Christopher Williams @ Cardiff University (UK).
+: Virtual premiere of _Shilly Shally_ by Sarah Dacey & Christopher Williams @ Cardiff University (Cardiff, UK).
 
 17 July 2021
 : Performance of _Traces of a Disco_ by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom) @ LSO St. Luke’s (London, UK).
@@ -194,7 +193,7 @@ January 2025
 : Composer Collider Europe, Phase 6 (online).
 
 13 March 2020
-: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Aberystwyth Arts Centre (mid-Wales, UK).
+: Performance of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Aberystwyth Arts Centre (Aberystwyth, UK).
 
 28 February 2020
 : World premiere of _Devil’s Elbow_ by Uproar Ensemble (cond. Michael Rafferty) @ Chapter Arts (Cardiff, UK).
@@ -212,7 +211,7 @@ January 2025
 : Performance of _Double Double_ by Equilibrium Ensemble @ Leggate Theatre (Liverpool, UK).
 
 17 October 2019
-: Open workshop with Uproar Ensemble (cond. Michael Rafferty) @ Bangor University (north-Wales, UK).
+: Open workshop with Uproar Ensemble (cond. Michael Rafferty) @ Bangor University (Bangor, UK).
 
 30 September 2019
 : Performance of _arr. Liverpool Lullaby_ by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK).
@@ -269,13 +268,13 @@ January 2025
 : Performance of _Enraptured_ by Nic Hughes & Leyla Cemiloglu @ Royal College of Music (London, UK).
 
 18 May 2018
-: MA Workshop: How to Write for the Violin, University of Salford (UK).
+: MA Workshop: How to Write for the Violin, University of Salford (Salford, UK).
 
 17 May 2018
 : World premiere of _Traces of a Disco_ by Psappha Ensemble @ Whitworth Art Gallery (Manchester, UK).
 
 16 February 2018
-: MA Lecture: How to Write for the Violin @ University of Salford (UK).
+: MA Lecture: How to Write for the Violin @ University of Salford (Salford, UK).
 
 15 February 2018
 : World premiere of _In Kenopsia_ by Tony Boorer & Bethan Morgan-Williams @ Hallé St. Michael’s (Manchester, UK).
@@ -287,7 +286,7 @@ January 2025
 : Composer Collider Europe, Phase 1 (Köln, DE).
 
 6 July 2017
-: Performance of _Coming ‘Round Again_ by the Liverpool Philharmonic Youth Choir @ Llandrindod Eisteddfod (UK).
+: Performance of _Coming ‘Round Again_ by the Liverpool Philharmonic Youth Choir @ Llangollen International Musical Eisteddfod (Llangollen, UK).
 
 2 July 2017
 : World premiere of _Coming ‘Round Again_ by the Liverpool Philharmonic Youth Choir @ Royal Philharmonic Hall (Liverpool, UK).
@@ -299,7 +298,7 @@ January 2025
 : World premiere of _The Promenaders_ by the Promenade Concert Orchestra (cond. Howard Rogerson) @ The Platform (Morecambe, UK).
 
 9 May 2017
-: World premiere of _The Cross & The Albatross_ by Hugh Woolley & Stephen Giles @ Birmingham Conservatoire (UK).
+: World premiere of _The Cross & The Albatross_ by Hugh Woolley & Stephen Giles @ Birmingham Conservatoire (Birmingham, UK).
 
 5 May 2017
 : _In Kenopsia_ recording session with Psappha Ensemble @ Hallé St. Michael’s (Manchester, UK).
@@ -323,7 +322,7 @@ January 2025
 : Composer in Residence at the International Conductor’s Festival @ Danville (KY, USA).
 
 29 July 2016
-: MA Workshop: How to Write for the Violin, University of Salford (UK).
+: MA Workshop: How to Write for the Violin, University of Salford (Salford, UK).
 
 11 March 2016
 : LSO Panufinik Workshop: _Scoot_ with the London Symphony Orchestra (François-Xavier Roth) @ LSO St. Luke’s (London, UK).
