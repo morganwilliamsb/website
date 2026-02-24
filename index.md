@@ -20,3 +20,5 @@ Bethan Morgan-Williams (1992–) is a composer who writes quirky, rhythmically i
 Bethan's work has been commissioned and performed by leading international soloists, ensembles, and orchestras, with broadcasts across Europe and North America. She is currently pursuing a PhD at the University of Huddersfield as the holder of the Jonathan Harvey Scholarship, researching collaborative methodologies in composition, and was appointed an honorary Associate Member of the Royal Northern College of Music in 2025.
 
 Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell trumpet).
+
+Details of upcoming performances are available [here](/performances.html).
