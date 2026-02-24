@@ -8,11 +8,18 @@ layout: page
 <details class="works-group" open markdown="1">
 <summary>Solo</summary>
 
+#### Whisht! *(2026)*
+**Flute**  
+Duration: ca. 9’
+: Commissioned by Bangor Music Festival.
+: Co-composed by Bethan Morgan-Williams & Richard Craig. 
+: First performance 15 February 2026 by Richard Craig @ Pontio Bangor, Bangor (UK).
+
 #### Skyppan *(2024)*
 **Basset Clarinet**  
 Duration: ca. 42’
 : Commissioned by Carl Rosman.
-: First performance tbc.
+: First performance TBC.
 
 #### Ffarwel i Uli *(2023)*
 **Amplified Violin & Ring Modulator**  
