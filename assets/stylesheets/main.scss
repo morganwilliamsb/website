@@ -235,3 +235,28 @@
   font-size: 1.1em !important;
   line-height: 1.6;
 }
+
+/* ===== Homepage: news banner ===== */
+
+.news-banner {
+  margin: 0 0 2rem 0;
+  padding: 0.9rem 1.1rem;
+  border-left: 4px solid var(--link-color, #b30000);
+  background: #f8f8f8;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.news-banner strong {
+  font-weight: 700;
+  margin-right: 0.3rem;
+}
+
+.news-banner a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.news-banner a:hover {
+  color: var(--link-color, #b30000);
+}
