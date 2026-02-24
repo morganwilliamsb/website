@@ -12,7 +12,7 @@ layout: page
 **Flute**  
 Duration: ca. 9’
 : Commissioned by Bangor Music Festival.
-: Co-composed by Bethan Morgan-Williams & Richard Craig. 
+: Co-composed with Richard Craig. 
 : First performance 15 February 2026 by Richard Craig @ Pontio Bangor, Bangor (UK).
 
 #### Skyppan *(2024)*
