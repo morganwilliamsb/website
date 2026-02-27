@@ -5,6 +5,9 @@ layout: page
 
 ## Coming Up
 
+9 April 2026
+: Performance of _Whisht!_ by Richard Craig @ TBC (Glasgow, UK).
+
 23 May 2026
 : Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE)
 : About/tickets: [Prize Ceremony 2026](https://evs-musikstiftung.ch/en/music-prize/music-prizes-2026-prize-ceremony/)
