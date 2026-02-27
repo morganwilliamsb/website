@@ -6,7 +6,8 @@ layout: page
 ## Coming Up
 
 9 April 2026
-: Performance of _Whisht!_ by Richard Craig @ TBC (Glasgow, UK).
+: Performance of _Whisht!_ by Richard Craig @ The Old Hairdresser's (Glasgow, UK).
+: About/tickets: [Stephanie Lamprea & Richard Craig perform new works for soprano, flute & electronics](https://www.eventbrite.com/e/stephanie-lamprea-richard-craig-tickets-1981115251046)
 
 23 May 2026
 : Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE)
