@@ -35,7 +35,7 @@ layout: page
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ Akademie für Tonkunst (Darmstadt, DE).
 
 22 June 2025
-: World premiere of _ILDIO_ – by the Birmingham Contemporary Music Group (cond. Catherine Larsen-Maguire) @ Susan Bradshaw Hall (Birmingham, UK).
+: World premiere of _ILDIO_ – by Birmingham Contemporary Music Group (cond. Catherine Larsen-Maguire) @ Susan Bradshaw Hall (Birmingham, UK).
 
 7 June 2025
 : Performance of _Strumble Head_ by Luke Tyrrell @ Swansea Grand Theatre (Swansea, UK).
@@ -62,7 +62,7 @@ January 2025
 : Performance of _Ffarwel i Uli_ by Hannah Weirich @ MUBA Chamber Music Hall (Tallinn, EE).
 
 15 September 2024
-: Performance of _Voices Go With You_ by the Birmingham Contemporary Music Group (cond. Thomas Kemp) @ CBSO Centre (Birmingham, UK).
+: Performance of _Voices Go With You_ by Birmingham Contemporary Music Group (cond. Thomas Kemp) @ CBSO Centre (Birmingham, UK).
 
 15 September 2024
 : Performance of _Ffarwel i Uli_ by Hannah Weirich @ Alte Kirche St. Martinus (Stommeln, DE).
