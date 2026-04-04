@@ -6,8 +6,12 @@ layout: page
 ## Coming Up
 
 9 April 2026
-: Performance of _Whisht!_ by Richard Craig @ The Old Hairdresser's (Glasgow, UK).
+: Performance of _Whisht!_ by Richard Craig @ The Old Hairdresser's, Glasgow (UK).
 : About/tickets: [Stephanie Lamprea & Richard Craig @ The Old Hairdresser's](https://www.eventbrite.com/e/stephanie-lamprea-richard-craig-tickets-1981115251046)
+
+26 April 2026
+: Performance of _Gêmdisyn_ by Carl Rosman @ St Pauls Hall, Huddersfield (UK).
+: About/tickets: [Elision Ensemble @ CeReNeM, Huddersfield](https://elision.org.au/april-26-2026/)
 
 23 May 2026
 : Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE)
