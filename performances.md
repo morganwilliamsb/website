@@ -11,7 +11,7 @@ layout: page
 
 26 April 2026
 : Performance of _Gêmdisyn_ by Carl Rosman @ St Pauls Hall, Huddersfield (UK).
-: About/tickets: [Elision Ensemble @ CeReNeM, Huddersfield](https://elision.org.au/april-26-2026/)
+: About/tickets: [Elision Ensemble @ CeReNeM Hudds](https://elision.org.au/april-26-2026/)
 
 23 May 2026
 : Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE).
