@@ -5,13 +5,13 @@ layout: page
 
 ## Coming Up
 
-9 April 2026
-: Performance of _Whisht!_ by Richard Craig @ The Old Hairdresser's, Glasgow (UK).
-: About/tickets: [Stephanie Lamprea & Richard Craig @ The Old Hairdresser's](https://www.eventbrite.com/e/stephanie-lamprea-richard-craig-tickets-1981115251046)
-
 26 April 2026
 : Performance of _Gêmdisyn_ by Carl Rosman @ St Pauls Hall, Huddersfield (UK).
 : About/tickets: [Elision Ensemble @ CeReNeM Hudds](https://elision.org.au/april-26-2026/)
+
+10 May 2026
+: Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ 4n20 Ruimte voor Kunst, Kortrijk (BE).
+: About/tickets: [Liaisons @ 4n20](https://www.eventbrite.nl/e/tickets-liaisons-harpiste-jenna-vergeynst-en-danserperformer-myrthe-bokelmann-1986811145620?aff=oddtdtcreator)
 
 23 May 2026
 : Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE).
@@ -24,8 +24,11 @@ layout: page
 -------------------------------------------------------------------------------
 
 ## Previous
+9 April 2026
+: Performance of _Whisht!_ by Richard Craig @ The Old Hairdresser's (Glasgow, UK).
+
 15 February 2026
-: World premiere of _Whisht!_ by Richard Craig @ Pontio Bangor (Bangor, UK).
+: World premiere of _Whisht!_ by Richard Craig @ Pontio (Bangor, UK).
 
 17 January 2026
 : World premiere of _Digon!_ by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem (Berlin, DE).
