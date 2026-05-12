@@ -3,6 +3,11 @@ title: "Contact"
 layout: page
 ---
 
+<img 
+  src="/assets/images/B_I0A4533.jpeg" 
+  alt="Bethan Morgan-Williams"
+  class="bio-portrait">
+
 ## Contact
 
 For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
