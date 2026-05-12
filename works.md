@@ -234,7 +234,7 @@ Duration: ca. 15'
 : First performance 17 January 2026 by ensemble mosaik (cond. Enno Poppe) @ Ultraschall – Radialsystem (Berlin, DE). 
 
 #### ILDIO *(2025)*
-**Piccolo, Oboe, Bass Clarinet, Bassoon, Trumpet (=Marching Kazoo), Trombone (=Slide Whistle), Piano, Harp (=Voice), Violin, Viola, Cello, Double Bass**  
+**Piccolo, Oboe, Bass Clarinet in Bb, Bassoon, Trumpet (=Marching Kazoo), Trombone (=Slide Whistle), Piano, Harp (=Voice), Violin, Viola, Cello, Double Bass**  
 Duration: ca. 11’
 : Commissioned by Birmingham Contemporary Music Group with the support of Arts Council England and BCMG’s Sound Investment scheme. 
 : First performance 22 June 2025 by Birmingham Contemporary Music Group & L’Instant Donné (cond. Catherine Larsen-Maguire) @ Bradshaw Hall, Royal Birmingham Conservatoire (Birmingham, UK). 
@@ -246,7 +246,7 @@ Duration: ca. 17′
 : First performance 26 November 2022 by Ensemble Musikfabrik (cond. Christian Eggen) @ WDR Funkhaus (Köln, DE). 
 
 #### Devil’s Elbow *(2019)*
-**Flute (=Alto/D.Rec.), Clarinet in Bb (=B. Cl. in Bb), Soprano Trombone, 1P, Piano (=Sampler/Slide Whistle), Harp, Electric Guitar, Live Electronics, 2 Violins, Viola, Cello, Double Bass**  
+**Flute (=Alto/D.Rec.), Clarinet in Bb (=B.Cl. in Bb), Soprano Trombone, 1P, Piano (=Sampler/Slide Whistle), Harp, Electric Guitar, Live Electronics, 2 Violins, Viola, Cello, Double Bass**  
 Duration: ca. 12′
 : Commissioned by Uproar Ensemble.
 : First performance 28 February 2020 by Uproar Ensemble (cond. Michael Rafferty) @ Chapel Arts Centre (Cardiff, UK).
