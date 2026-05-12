@@ -8,8 +8,6 @@ layout: page
   alt="Bethan Morgan-Williams"
   class="contact-photo-circle">
 
-## Contact
-
 For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
 
 **morganwilliamsbethan@gmail.com**
