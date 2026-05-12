@@ -266,19 +266,18 @@
 /* ===== Contact page right-aligned portrait ===== */
 
 .contact-photo-right {
-  width: 32%;
-  max-width: 220px;
+  width: 24%;
+  max-width: 170px;
   float: right;
   margin: 0 0 1.2rem 1.5rem;
   border-radius: 10px;
 }
 
-/* Mobile: stack image above text */
 @media (max-width: 900px) {
   .contact-photo-right {
     float: none;
     width: 100%;
-    max-width: 220px;
+    max-width: 170px;
     display: block;
     margin: 0 auto 1.5rem auto;
   }
