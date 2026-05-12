@@ -5,7 +5,9 @@ layout: page
 
 For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
 
+<span style="color: var(--link-color, #b30000);">
 **morganwilliamsbethan@gmail.com**
+</span>
 
 ---
 
