@@ -6,7 +6,7 @@ layout: page
 <img 
   src="/assets/images/B_I0A4533.jpeg" 
   alt="Bethan Morgan-Williams"
-  class="bio-portrait">
+  class="contact-photo-circle">
 
 ## Contact
 
