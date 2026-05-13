@@ -17,7 +17,7 @@ Central to Bethan’s practice is _material-drift_: a transformative process thr
 
 Her music has been commissioned and performed by internationally acclaimed soloists including Carl Rosman, Antoine Tamestit, Colin Currie, Jennifer Johnston, and Ben Goldscheider, and by ensembles such as ensemble mosaik, Ensemble Musikfabrik, Birmingham Contemporary Music Group, Riot Ensemble, Psappha, and Ensemble 10/10. Orchestral performances include the City of Birmingham Symphony Orchestra and the London Symphony Orchestra, with broadcasts across Europe and North America.
 
-Bethan’s work has been recognised through awards and residencies including a Darmstadt Stipend, a Leverhulme scholarship, the Susan Bradshaw Composer Prize (Royal Philharmonic Society), and the Christopher Brooks Composition Prize (Royal Liverpool Philharmonic Orchestra). She has participated in schemes such as the LSO Panufnik Scheme, has been shortlisted for ISCM World Music Days and a Paul Hamlyn Award, and was appointed an honorary Associate Member of the Royal Northern College of Music in 2025.
+Bethan’s work has been recognised through awards and residencies including a Darmstadt Stipend, a Leverhulme scholarship, the Susan Bradshaw Composer Prize (Royal Philharmonic Society), and the Christopher Brooks Composition Prize (Royal Liverpool Philharmonic Orchestra). She has participated in schemes such as the LSO Panufnik Scheme, has been shortlisted for ISCM World Music Days and a Paul Hamlyn Award, and was appointed an honorary Associate Member of the Royal Northern College of Music in 2025. In 2026, she was named one of three recipients of an Ernst von Siemens Composer Prize.
 
 ## Short Bio
 
