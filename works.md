@@ -11,70 +11,59 @@ layout: page
 #### Whisht! *(2026)*
 **Flute**  
 Duration: ca. 9’
-: Commissioned by Bangor Music Festival.
 : Co-composed with Richard Craig. 
-: First performance 15 February 2026 by Richard Craig @ Pontio Bangor (Bangor, UK).
+: Commissioned by Bangor Music Festival. First performance 15 February 2026 by Richard Craig @ Pontio Bangor (Bangor, UK).
 
 #### Skyppan *(2024)*
 **Basset Clarinet**  
 Duration: ca. 42’
-: Commissioned by Carl Rosman.
-: First performance TBC.
+: Commissioned by Carl Rosman. First performance TBC.
 
 #### Ffarwel i Uli *(2023)*
 **Amplified Violin & Ring Modulator**  
 Duration: ca. 7’
-: Commissioned by Hannah Weirich with funds provided by the Ernst von Siemens Music Foundation.
-: First performance 30 August 2023 by Hannah Weirich @ Studio des Ensemble Musikfabrik (Köln, DE). 
+: Commissioned by Hannah Weirich with funds provided by the Ernst von Siemens Music Foundation. First performance 30 August 2023 by Hannah Weirich @ Studio des Ensemble Musikfabrik (Köln, DE). 
 
 #### Strumble Head *(2021)*
 **Guitar**  
 Duration: ca. 5’
-: Commissioned by International Guitar Foundation & Festivals (IGF).
-: First performance 23 October 2021 by Bradley Johnson @ Kings Place (London, UK). 
+: Commissioned by International Guitar Foundation & Festivals (IGF). First performance 23 October 2021 by Bradley Johnson @ Kings Place (London, UK). 
 
 #### Reverie *(2021)*
 **Oboe**  
 Duration: ca. 8′
-: Written for Elen Morgan-Williams.
-: First performance 3 June 2021 by Elen Morgan-Williams @ Guildhall School of Music & Drama (London, UK). 
+: Written for Elen Morgan-Williams. First performance 3 June 2021 by Elen Morgan-Williams @ Guildhall School of Music & Drama (London, UK). 
 
 #### Gêmdisyn *(2020)*
 **Clarinet in Eb**  
 Duration: ca. 9′
-: Commissioned by Ensemble Musikfabrik.
-: First performance 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule (Darmstadt, DE). 
+: Commissioned by Ensemble Musikfabrik. First performance 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule (Darmstadt, DE). 
 
 #### One, Two, Bakerloo… *(2020)*
 **Violin**  
 Duration: ca. 30″
-: Written for Fenella Humphreys.
-: First performance 10 June 2020 by Fenella Humphreys – Homemade Concert #14 @ Youtube. Recorded by Rubicon Classics on disk _Prism._
+: Written for Fenella Humphreys. First performance 10 June 2020 by Fenella Humphreys – Homemade Concert #14 @ Youtube. Recorded by Rubicon Classics on disk _Prism._
 
 #### In Sleep Braces *(2018)*
 **Organ**  
 Duration: ca. 5’30”
-: Written for Giovanni Michelini.
-: First performance 23 July 2018 by Giovanni Michelini – International Organ Festival Haarlem @ St. Bavo’s Church (Haarlem, NL). 
+: Written for Giovanni Michelini. First performance 23 July 2018 by Giovanni Michelini – International Organ Festival Haarlem @ St. Bavo’s Church (Haarlem, NL). 
 
 #### A Ribbon At A Time *(2018)*
 **Bassoon**  
 Duration: ca. 3’
-: Written for Georgie Powell.
-: First performance 30 July 2018 by Georgie Powell @ Darmstadt Ferienkurse, Lichtenbergschule (Darmstadt, DE). 
+: Written for Georgie Powell. First performance 30 July 2018 by Georgie Powell @ Darmstadt Ferienkurse, Lichtenbergschule (Darmstadt, DE). 
 
 #### Oceans *(2013)*
 **Fixed Tape**  
 Duration: ca. 8’
-: Written for Bethan Morgan-Williams.
-: First performance 12 December 2013 by Bethan Morgan-Williams @ Crystal House (Manchester, UK).
+: Written for Bethan Morgan-Williams. First performance 12 December 2013 by Bethan Morgan-Williams @ Crystal House (Manchester, UK).
 
 #### A Thornbush In My Strength *(2013)*
 **Percussion**  
 Duration: ca. 3’30”
 : Instrumentation: saron, snare drum, splash cymbal. 
-: Written for Delia Stevens.
-: First performance 30 October 2013 by Delia Stevens (House of Bedlam) @ Royal Northern College of Music (Manchester, UK). 
+: Written for Delia Stevens. First performance 30 October 2013 by Delia Stevens (House of Bedlam) @ Royal Northern College of Music (Manchester, UK). 
 
 #### Minstrels On Their Way Home (A Tribute to Debussy) *(2013)*
 **Piano**  
@@ -94,92 +83,78 @@ Duration: ca. 4′
 #### Trying to Use Words *(2025)*
 **Singing Harpist & Dancer**  
 Duration: ca. 9’
-: Commissioned by Jenna Vergeynst.
-: First performance 25 April 2025 by Jenna Vergeynst & Myrthe Bokelmann @ De Graaf (Ghent, BE).
+: Commissioned by Jenna Vergeynst. First performance 25 April 2025 by Jenna Vergeynst & Myrthe Bokelmann @ De Graaf (Ghent, BE).
 
 #### Gormod *(2024)*
 **Oboe, Basset Clarinet, Euphonium, Viola, Cello**  
 Duration: ca. 12′
-: Commissioned by Berliner Festspiele/MaerzMusik, with funding from the Ernst von Siemens Music Foundation. 
-: First performance 20 March 2024 by Peter Veale, Carl Rosman, Maxime Morel, Axel Porath & Dirk Wietheger @ Maerzmusik – Radialsystem (Berlin, DE). 
+: Commissioned by Berliner Festspiele/MaerzMusik, with funding from the Ernst von Siemens Music Foundation. First performance 20 March 2024 by Peter Veale, Carl Rosman, Maxime Morel, Axel Porath & Dirk Wietheger @ Maerzmusik – Radialsystem (Berlin, DE). 
 
 #### Fleck *(2023)*
 **Clarinet in Eb, Clarinet in A, Viola**  
 Duration: ca. 10’
-: Written for Darmstadt Ferienkurse.
-: First performance 18 August 2023 by Marcin Domagala, Yui Matsunaga and Yona Su @ Darmstadt Ferienkurse, Lichtenbergschule (Darmstadt, DE). 
+: Written for Darmstadt Ferienkurse. First performance 18 August 2023 by Marcin Domagala, Yui Matsunaga and Yona Su @ Darmstadt Ferienkurse, Lichtenbergschule (Darmstadt, DE). 
 
 #### Voices Go With You *(2022)*
 **Alto Flute, Cello, Percussion, Piano**  
 Duration: ca. 11’
-: Commissioned by Psappha Ensemble.
-: First performance 12 May 2022 by Psappha Ensemble @ Hallé St. Peter’s (Manchester, UK).
+: Commissioned by Psappha Ensemble. First performance 12 May 2022 by Psappha Ensemble @ Hallé St. Peter’s (Manchester, UK).
 
 #### Parodi i Dri *(2021)*
 **Clarinet in Bb, Violin, Piano**  
 Duration: ca. 5’30″
-: Commissioned by National Youth Arts Wales.
-: First performance (virtual) on 21 October by Nathan Isaac, Nick Francis & Gwydion Rhys. 
+: Commissioned by National Youth Arts Wales. First performance (virtual) on 21 October by Nathan Isaac, Nick Francis & Gwydion Rhys. 
 
 #### Traces of a Disco *(rev. (2021))*
 **Alto Flute, Bass Clarinet in Bb, Vibraphone, Cello, Double Bass**  
 Duration: ca. 6′
-: Revised for new instrumentation. 
-: Revised version first performance 17 July 2021 by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom) @ LSO St. Luke’s (London, UK). 
+: *Revised for new instrumentation.* 
+: First performance of *revised version* 17 July 2021 by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom) @ LSO St. Luke’s (London, UK). 
 
 #### Demeter’s Cry *(2020)*
 **Violin, Accordion, Double Bass, Drum-kit**  
 Duration: ca. 6’30″
-: Commissioned by Fenella Humphreys with funding from The Marchus Trust. 
-: First performance 5 October 2020 by Fenella Humphreys, Iñigo Mikeleiz Berrade, Ben Griffiths & George Barton @ Chiltern Arts Festival (Henley-on-Thames, UK). 
+: Commissioned by Fenella Humphreys with funding from The Marchus Trust. First performance 5 October 2020 by Fenella Humphreys, Iñigo Mikeleiz Berrade, Ben Griffiths & George Barton @ Chiltern Arts Festival (Henley-on-Thames, UK). 
 
 #### Dog in the Moon *(2020)*
 **Viola & Percussion**  
 Duration: ca. 10′
-: Commissioned by the BBC & London Symphony Orchestra for Antoine Tamestit & Colin Currie. 
-: First performance 8 October by Antoine Tamestit & Colin Currie @ LSO St. Luke’s (London, UK). 
+: Commissioned by the BBC & London Symphony Orchestra for Antoine Tamestit & Colin Currie. First performance 8 October by Antoine Tamestit & Colin Currie @ LSO St. Luke’s (London, UK). 
 
 #### Datod *(2020)*
 **Violin & Piano**  
 Duration: ca. 8′
-: Commissioned by the Park Lane Group with funds provided by the RVW Trust. 
-: First performance 13 July 2020 by Hannah Weirich & Ulrich Löffler @ Studio of Ensemble Musikfabrik (Köln, DE). 
+: Commissioned by the Park Lane Group with funds provided by the RVW Trust. First performance 13 July 2020 by Hannah Weirich & Ulrich Löffler @ Studio of Ensemble Musikfabrik (Köln, DE). 
 
 #### Severn *(2019)*
 **Clarinet in A, Bass Clarinet in Bb, Mandolin, Guitar, Violin, Viola, Cello**  
 Duration: ca. 8′
-: Written for the New European Ensemble.
-: First performance 3 April 2019 by the New European Ensemble @ Korzo Theatre (Den Haag, NL).
+: Written for the New European Ensemble. First performance 3 April 2019 by the New European Ensemble @ Korzo Theatre (Den Haag, NL).
 
 #### Double Double *(2018)*
 **String Quartet**  
 Duration: ca. 14’30”
-: Commissioned by Hilary Browning.
-: First performance 6 November 2019 by Equilibrium Ensemble @ University of Liverpool Lunchtime Concert Series (Liverpool, UK). 
+: Commissioned by Hilary Browning. First performance 6 November 2019 by Equilibrium Ensemble @ University of Liverpool Lunchtime Concert Series (Liverpool, UK). 
 
 #### Ghost Tongues *(2018)*
 **String Quartet**  
 Duration: ca. 11′
-: Commissioned by the Royal Philharmonic Society through the Susan Bradshaw Composers Fund.
-: First performance 11 July 2018 by the Ligeti Quartet @ Cheltenham Music Festival – Chapel Arts (Cheltenham, UK).
+: Commissioned by the Royal Philharmonic Society through the Susan Bradshaw Composers Fund. First performance 11 July 2018 by the Ligeti Quartet @ Cheltenham Music Festival – Chapel Arts (Cheltenham, UK).
 
 #### Traces of a Disco *(2018)*
 **Cimbalom, Bass Clarinet in Bb, Double Bass**  
 Duration: ca. 6'”
-: Commissioned by Rachel Swanick with support from the Arts Council England, Psappha and the Whitworth Art Gallery. 
-: First performance 17 May 2018 by Psappha Ensemble @ Whitworth Art Gallery (Manchester, UK).
+: Commissioned by Rachel Swanick with support from the Arts Council England, Psappha and the Whitworth Art Gallery. First performance 17 May 2018 by Psappha Ensemble @ Whitworth Art Gallery (Manchester, UK).
 
 #### The Cross & The Albatross *(2017)*
 **Bassoon & Harpsichord**  
 Duration: ca. 6’30”
-: Commissioned by Hugh Woolley.
-: First performance 7 May 2017 by Hugh Woolley and Stephen Giles @ Birmingham Conservatoire (Birmingham, UK). 
+: Commissioned by Hugh Woolley. First performance 7 May 2017 by Hugh Woolley and Stephen Giles @ Birmingham Conservatoire (Birmingham, UK). 
 
 #### In Kenopsia *(2017)*
 **Trombone & Live Electronics**  
 Duration: ca. 5’30”
-: Commissioned by Psappha in partnership with PRS for Music Foundation Talent Development. 
-: First performance 15 February 2017 by Tony Boorer & Bethan Morgan-Williams @ Hallé St. Michael’s (Manchester, UK). 
+: Commissioned by Psappha in partnership with PRS for Music Foundation Talent Development. First performance 15 February 2017 by Tony Boorer & Bethan Morgan-Williams @ Hallé St. Michael’s (Manchester, UK). 
 
 #### Enraptured *(2015)*
 **Violin & Piano**  
@@ -189,8 +164,7 @@ Duration: ca. 8′
 #### In the Crypt *(2015)*
 **Horn & Live Electronics**  
 Duration: ca. 8′
-: Written for Alison Wilmshurst.
-: First performance 15 May 2015 by Alison Wilmshurst & Bethan Morgan-Williams @ Royal Northern College of Music (Manchester, UK). 
+: Written for Alison Wilmshurst. First performance 15 May 2015 by Alison Wilmshurst & Bethan Morgan-Williams @ Royal Northern College of Music (Manchester, UK). 
 
 #### Helpings of Hell *(2013)*
 **Flute & Double Bass**  
@@ -230,37 +204,32 @@ Duration: ca. 2′
 #### Digon! *(2025)*
 **Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello**  
 Duration: ca. 15'
-: A Saunders commission for ensemble mosaik.
-: First performance 17 January 2026 by ensemble mosaik (cond. Enno Poppe) @ Ultraschall – Radialsystem (Berlin, DE). 
+: A Saunders commission for ensemble mosaik. First performance 17 January 2026 by ensemble mosaik (cond. Enno Poppe) @ Ultraschall – Radialsystem (Berlin, DE). 
 
 #### ILDIO *(2025)*
 **Piccolo, Oboe, Bass Clarinet in Bb, Bassoon, Trumpet (=Marching Kazoo), Trombone (=Slide Whistle), Piano, Harp (=Voice), Violin, Viola, Cello, Double Bass**  
 Duration: ca. 11’
-: Commissioned by Birmingham Contemporary Music Group with the support of Arts Council England and BCMG’s Sound Investment scheme. 
-: First performance 22 June 2025 by Birmingham Contemporary Music Group & L’Instant Donné (cond. Catherine Larsen-Maguire) @ Bradshaw Hall, Royal Birmingham Conservatoire (Birmingham, UK). 
+: Commissioned by Birmingham Contemporary Music Group with the support of Arts Council England and BCMG’s Sound Investment scheme. First performance 22 June 2025 by Birmingham Contemporary Music Group & L’Instant Donné (cond. Catherine Larsen-Maguire) @ Bradshaw Hall, Royal Birmingham Conservatoire (Birmingham, UK). 
 
 #### Gêmdis *(2020)*
 **Flute (=Picc.), Oboe (=Slide Whistle/Cor.), Solo Clarinet in Eb, Horn in F (=Slide Whistle), Trombone (=Slide Whistle), Tuba (=Slide Whistle), Piano (=Slide Whistle)**  
 Duration: ca. 17′
-: Written for Carl Rosman & Ensemble Musikfabrik as part of the Composer Collider Europe project (2017-20).
-: First performance 26 November 2022 by Ensemble Musikfabrik (cond. Christian Eggen) @ WDR Funkhaus (Köln, DE). 
+: Written for Carl Rosman & Ensemble Musikfabrik as part of the Composer Collider Europe project (2017-20). First performance 26 November 2022 by Ensemble Musikfabrik (cond. Christian Eggen) @ WDR Funkhaus (Köln, DE). 
 
 #### Devil’s Elbow *(2019)*
 **Flute (=Alto/D.Rec.), Clarinet in Bb (=B.Cl. in Bb), Soprano Trombone, 1P, Piano (=Sampler/Slide Whistle), Harp, Electric Guitar, Live Electronics, 2 Violins, Viola, Cello, Double Bass**  
 Duration: ca. 12′
-: Commissioned by Uproar Ensemble.
-: First performance 28 February 2020 by Uproar Ensemble (cond. Michael Rafferty) @ Chapel Arts Centre (Cardiff, UK).
+: Commissioned by Uproar Ensemble. First performance 28 February 2020 by Uproar Ensemble (cond. Michael Rafferty) @ Chapel Arts Centre (Cardiff, UK).
 
 #### Speelklok II *(2018)*
 **Mandolin, Accordion, Harpsichord, Celesta, Piano, Percussion**  
 Duration: ca. 7’30”
-: First performance 24 January 2019 by the Spaceship Ensemble (cond. Hardy Li) @ Koninklijk Conservatorium (Den Haag, NL).
+: Written for the Spaceship Ensemble. First performance 24 January 2019 by the Spaceship Ensemble (cond. Hardy Li) @ Koninklijk Conservatorium (Den Haag, NL).
 
 #### Mirages in Pisa *(2016)*
 **Flute (=Picc), Oboe (=Cor), Clarinet in A (=B.Cl. in Bb), Trumpet (=Picc), Horn, 1P, Piano, 2 Violins, Viola, 2 Cellos**  
 Duration: ca. 12’
-: Commissioned by the Royal Liverpool Philharmonic Orchestra through the Christopher Brooks Composition Prize, supported by the Rushworth Foundation. 
-: First performance 26 October 2016 by Ensemble 10/10 (cond. Clark Rundell) @ St. George’s Hall (Liverpool, UK). 
+: Commissioned by the Royal Liverpool Philharmonic Orchestra through the Christopher Brooks Composition Prize, supported by the Rushworth Foundation. First performance 26 October 2016 by Ensemble 10/10 (cond. Clark Rundell) @ St. George’s Hall (Liverpool, UK). 
 
 </details>
 
@@ -270,26 +239,22 @@ Duration: ca. 12’
 #### Parti Di-ffiniau *(2022)*
 **3333 / 4331 / 1T 3P 1Pno 1Hp / 12.10.8.6.4**  
 Duration: ca. 4′
-: Commissioned by the City of Birmingham Symphony Orchestra (CBSO). 
-: First performance 29 January 2023 by the CBSO (cond. Clark Rundell) @ Symphony Hall (Birmingham, UK). 
+: Commissioned by the City of Birmingham Symphony Orchestra (CBSO). First performance 29 January 2023 by the CBSO (cond. Clark Rundell) @ Symphony Hall (Birmingham, UK). 
 
 #### The Promenaders *(2017)*
 **2222 / 223 / 1T 2P 1H 1BG (opt.) / 10.8.6.4.2**  
 Duration: ca. 6’
-: Commissioned by the Promenade Concert Orchestra. 
-: First performance 21 May 2017 by the Promenade Concert Orchestra (cond. Howard Rogerson) @ The Platform (Morecambe, UK). 
+: Commissioned by the Promenade Concert Orchestra. First performance 21 May 2017 by the Promenade Concert Orchestra (cond. Howard Rogerson) @ The Platform (Morecambe, UK). 
 
 #### KNO<sub>3</sub> *(2016)*
 **2222 / 2Hn / 1T 3P / 12.10.8.6.4**  
 Duration: ca. 6’
-: Commissioned by the International Conductors Festival. 
-: First performance 29 July 2016 by the Piccadilly Symphony Orchestra (cond. Xavier Cloete) @ Norton Centre for the Arts, Danville (KY, USA). 
+: Commissioned by the International Conductors Festival. First performance 29 July 2016 by the Piccadilly Symphony Orchestra (cond. Xavier Cloete) @ Norton Centre for the Arts, Danville (KY, USA). 
 
 #### Scoot *(2015)*
 **3333 / 4331 / 1T 2P 1Cel 1Hp / 14.12.10.8.6**  
 Duration: ca. 4’
-: Commissioned by the London Symphony Orchestra through the LSO Discovery Panufnik Composers Scheme, supported by the Helen Hamlyn Trust. 
-: First performance 11 March 2016 by the London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s (London, UK). Recorded by LSO Live on disk _Panufnik Legacies III_. 
+: Commissioned by the London Symphony Orchestra through the LSO Discovery Panufnik Composers Scheme, supported by the Helen Hamlyn Trust. First performance 11 March 2016 by the London Symphony Orchestra (cond. François-Xavier Roth) @ LSO St. Luke’s (London, UK). Recorded by LSO Live on disk _Panufnik Legacies III_. 
 
 #### Harangue *(2014)*
 **4243 / 311 / 1T 3P 1Pno 1BG 1Cel 1Hp / Solo Hn / 10.8.6.4.2**  
@@ -325,34 +290,30 @@ Duration: ca. 5’
 **Soprano & Piano**  
 Duration: ca. 5′
 : Text by Bethan Morgan-Williams.
-: Written for Sarah Dacey as part of the CoDI opera project.
-: First performance 26 July 2021 by Sarah Dacey & Christopher Williams @ Cardiff University (Cardiff, UK). 
+: Written for Sarah Dacey as part of the CoDI opera project. First performance 26 July 2021 by Sarah Dacey & Christopher Williams @ Cardiff University (Cardiff, UK). 
 
 #### Cusan Aderyn *(2019)*
 **Soprano & Piano Trio**  
 Duration: ca. 5′
 : Text by Richard Llwyd.
-: Commissioned by Canolfan Gerdd William Mathias.
-: First performance 16 October 2021 by Alys Roberts, Sara Trickey, Sebastian Van Kuijk & Iwan Llewelyn-Jones @ Galeri Arts (Caernarfon, UK). 
+: Commissioned by Canolfan Gerdd William Mathias. First performance 16 October 2021 by Alys Roberts, Sara Trickey, Sebastian Van Kuijk & Iwan Llewelyn-Jones @ Galeri Arts (Caernarfon, UK). 
 
 #### arr. Liverpool Lullaby *(2019)*
 **Mezzo-Soprano & Piano**  
 Duration: ca. 6’
 : Text by Stan Kelly.
-: Commissioned by Sandra Parr.
-: First performance 29 September 2019 by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK). Recorded by Rubicon Classics on disk _A Love Letter To Liverpool_ 
+: Commissioned by Sandra Parr. First performance 29 September 2019 by Jennifer Johnston & Marina Staneva @ Music Room (Liverpool, UK). Recorded by Rubicon Classics on disk _A Love Letter To Liverpool_ 
 
 #### Coming ‘Round Again *(2017)*
 **SSA, Percussion, Piano**  
 Duration: ca. 4’
 : Text by Matthew Hill.
-: Commissioned by the Liverpool Philharmonic Youth Choir.
-: First performance 2 July 2017 by the Liverpool Philharmonic Youth Choir @ Royal Philharmonic Hall (Liverpool, UK). 
+: Commissioned by the Liverpool Philharmonic Youth Choir. First performance 2 July 2017 by the Liverpool Philharmonic Youth Choir @ Royal Philharmonic Hall (Liverpool, UK). 
 
 #### Walk With Me *(2014)*
 **Mezzo-Soprano & Piano**  
 Duration: ca. 6’
-: Text by Beatrice Wallbank.
+: Text by Beatrice Wallbank. 
 : First performance 22 April 2023 by Jessica Summers and Jelena Makarova @ Holy Trinity Church Hereford (Hereford, UK).
 
 #### Sleepwalking *(2011)*
