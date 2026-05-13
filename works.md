@@ -27,7 +27,7 @@ Duration: ca. 7’
 #### Strumble Head *(2021)*
 **Guitar**  
 Duration: ca. 5’
-: Commissioned by International Guitar Foundation & Festivals (IGF). First performance 23 October 2021 by Bradley Johnson @ Kings Place (London, UK). 
+: Commissioned by International Guitar Foundation & Festivals. First performance 23 October 2021 by Bradley Johnson @ Kings Place (London, UK). 
 
 #### Reverie *(2021)*
 **Oboe**  
