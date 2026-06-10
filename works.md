@@ -119,7 +119,7 @@ Duration: ca. 6’30″
 #### Dog in the Moon *(2020)*
 **Viola & Percussion**  
 Duration: ca. 10′
-: Commissioned by the BBC & London Symphony Orchestra for Antoine Tamestit & Colin Currie. First performance 8 October by Antoine Tamestit & Colin Currie @ LSO St. Luke’s (London, UK). 
+: Commissioned by the BBC & London Symphony Orchestra for Antoine Tamestit & Colin Currie. First performance 8 October 2020 by Antoine Tamestit & Colin Currie @ LSO St. Luke’s (London, UK). 
 
 #### Datod *(2020)*
 **Violin & Piano**  
