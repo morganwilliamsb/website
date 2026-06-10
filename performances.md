@@ -5,17 +5,18 @@ layout: page
 
 ## Coming Up
 
-23 May 2026
-: Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE).
-: About/tickets: [Prize Ceremony 2026](https://evs-musikstiftung.ch/en/music-prize/music-prizes-2026-prize-ceremony/)
-
-28 May 2026
-: Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich (CH).
-: About/tickets: [Collegium Novum Zürich @ Brunnenhof](https://cnz.ch/ausschweifen) 
+TBC
+: World premiere of _Skyppan_ by Carl Rosman. 
 
 -------------------------------------------------------------------------------
 
 ## Previous
+28 May 2026
+: Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich (CH).
+
+23 May 2026
+: Ernst von Siemens Music Prizes 2026 – Prize Ceremony @ Prinzregententheater Munich (DE).
+
 10 May 2026
 : Performance of _Trying to Use Words_ by Jenna Vergeynst & Myrthe Bokelmann @ 4n20 Ruimte voor Kunst, Kortrijk (BE).
 
