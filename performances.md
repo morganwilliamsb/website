@@ -6,7 +6,13 @@ layout: page
 ## Coming Up
 
 TBC
-: World premiere of _Skyppan_ by Carl Rosman. 
+: World premiere of _Skyppan_ by Carl Rosman.
+
+23 January 2027
+: Performance of _ILDIO_ by Ensemble Musikfabrik (cond. Peter Rundel) @ WDR Köln (DE).
+
+22 February 2027
+: A Chamber Portrait – Music by Bethan Morgan-Williams, performed by members of Ensemble Musikfabrik (cond. Christian Eggen) @ Studio des Ensemble Musikfabrik, Köln (DE).
 
 -------------------------------------------------------------------------------
 
