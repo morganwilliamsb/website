@@ -158,7 +158,7 @@ January 2025
 9 October 2021
 : Performance of _In Sleep Braces_ by Huw Morgan @ St. Stephen’s Church, Bristol (UK).
 
- October 2021
+8 October 2021
 : World premiere of _Dog in the Moon_ by Antoine Tamestit & Colin Currie @ LSO St. Luke’s, London (UK).
 
 7 August 2021
