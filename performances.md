@@ -152,14 +152,11 @@ January 2025
 21 October 2021
 : Virtual world premiere of _Parodi i Dri_ by Nathan Isaac, Nick Francis & Gwydion Rhys, online (UK).
 
-6 October 2021
-: Virtual world premiere of _Cusan Aderyn_ by Alys Roberts, Sara Trickey, Sebastian Van Kuijk & Iwan Llewelyn-Jones, online (UK).
-
 9 October 2021
 : Performance of _In Sleep Braces_ by Huw Morgan @ St. Stephen’s Church, Bristol (UK).
 
-8 October 2021
-: World premiere of _Dog in the Moon_ by Antoine Tamestit & Colin Currie @ LSO St. Luke’s, London (UK).
+6 October 2021
+: Virtual world premiere of _Cusan Aderyn_ by Alys Roberts, Sara Trickey, Sebastian Van Kuijk & Iwan Llewelyn-Jones, online (UK).
 
 7 August 2021
 : World premiere of _Gêmdisyn_ by Carl Rosman @ Lichtenbergschule, Darmstadt (DE).
@@ -187,6 +184,9 @@ January 2025
 
 31 October-10 November 2020
 : Composer Collider Europe, Phase 8, Köln (DE).
+
+8 October 2020
+: World premiere of _Dog in the Moon_ by Antoine Tamestit & Colin Currie @ LSO St. Luke’s, London (UK).
 
 23 October 2020
 : Performance of _In the Crypt_ by Ben Goldscheider & Pete Stollery @ Sound Festival 2020, Aberdeen (UK).
