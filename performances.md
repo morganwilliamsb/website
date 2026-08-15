@@ -8,6 +8,9 @@ layout: page
 TBC
 : World premiere of _Skyppan_ by Carl Rosman.
 
+12 September 2026
+: Performance of _Strumble Head_ by Luke Tyrrell @ St Anne's Church, Limehouse (UK). [Tickets](https://thamesfestivaltrust.org/whats-on/land-and-sea-on-six-strings-spanish-guitar-and-poetry-with-luke-tyrrell-26875/)
+
 23 January 2027
 : Performance of _ILDIO_ by Ensemble Musikfabrik (cond. Peter Rundel) @ WDR Köln (DE).
 
