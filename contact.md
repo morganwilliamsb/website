@@ -30,9 +30,4 @@ Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinti
 
 ---
 
-<a href="https://eepurl.com/g7QRu9"
-   class="btn"
-   target="_blank"
-   rel="noopener">
-  Subscribe to my newsletter
-</a>
+[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
