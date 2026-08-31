@@ -9,6 +9,8 @@ For score hire or purchase, commissions, collaborations, or general enquiries, p
 **morganwilliamsbethan@gmail.com**
 </span>
 
+[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
+
 ---
 
 ## Printing and Supplies
@@ -27,7 +29,3 @@ Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinti
 
 > “It’s a pleasure to work with somebody who knows their music so well and who is so attentive.”  
 > — **Daniel Agi**, flautist, hand werk & Das Neue Ensemble
-
----
-
-[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
