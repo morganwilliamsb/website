@@ -23,9 +23,4 @@ Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell t
 
 Details of upcoming performances are available [here](/performances.html).
 
-<a href="https://eepurl.com/g7QRu9"
-   class="btn"
-   target="_blank"
-   rel="noopener">
-  Subscribe to my newsletter
-</a>
+[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
