@@ -4,7 +4,7 @@ image: /assets/images/B_I0A4784 copy (1).jpeg
 sub_title: "Composer"
 ---
 
-<a href="https://eepurl.com/g7QRu9" class="button" target="_blank" rel="noopener">Subscribe</a>
+
 
 ---
 
@@ -22,3 +22,10 @@ Bethan's work has been commissioned and performed by leading international soloi
 Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell trumpet).
 
 Details of upcoming performances are available [here](/performances.html).
+
+<a href="https://eepurl.com/g7QRu9"
+   class="btn"
+   target="_blank"
+   rel="noopener">
+  Subscribe to my newsletter
+</a>
