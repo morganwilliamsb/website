@@ -14,8 +14,6 @@ layout: page
 22 February 2027
 : A Chamber Portrait – Music by Bethan Morgan-Williams, performed by members of Ensemble Musikfabrik (cond. Christian Eggen) @ Studio des Ensemble Musikfabrik, Köln (DE).
 
-[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
-
 -------------------------------------------------------------------------------
 
 ## Previous
