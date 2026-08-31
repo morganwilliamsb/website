@@ -22,5 +22,3 @@ Bethan's work has been commissioned and performed by leading international soloi
 Current collaborators are Richard Craig (flute) and Lucy Humphris (double-bell trumpet).
 
 Details of upcoming performances are available [here](/performances.html).
-
-[Subscribe to my newsletter](https://eepurl.com/g7QRu9){: .btn }
