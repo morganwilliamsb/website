@@ -5,15 +5,13 @@ layout: page
 
 For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
 
-<span style="color: var(--link-color, #b30000);">
+<span style="color: var(--link-color, #DB4445);">
 **morganwilliamsbethan@gmail.com**
 </span>
 
 ---
 
 Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinting.co.uk)**, who provide high-quality, musician-focused printing using custom materials and premium finishes. PMBS is a printing service for musicians, by musicians.
-
----
 
 > “An exacting musician with very high standards and an exceptional ear. A pleasure to work with.”  
 > — **Hilary Browning**, Associate Principal Cello, Royal Liverpool Philharmonic Orchestra
