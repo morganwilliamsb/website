@@ -4,16 +4,23 @@
 
 .btn {
   display: inline-block;
-  padding: 0.35em 0;
-  border: 0;
+  padding: 0.45em 0.9em;
+  border: 1px solid $accent-color;
+  border-radius: 999px;
   background: transparent;
   color: $accent-color;
   font-weight: normal;
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
+  text-decoration: none;
   cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
 
   &:hover {
-    opacity: 0.7;
+    background-color: $accent-color;
+    color: #fff;
+  }
+
+  &:focus {
+    background-color: $accent-color;
+    color: #fff;
   }
 }
