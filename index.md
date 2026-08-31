@@ -2,10 +2,9 @@
 layout: home
 image: /assets/images/B_I0A4784 copy (1).jpeg
 sub_title: "Composer"
-<a href="https://eepurl.com/g7QRu9" class="button" target="_blank" rel="noopener">Subscribe</a>
 ---
 
-
+<a href="https://eepurl.com/g7QRu9" class="button" target="_blank" rel="noopener">Subscribe</a>
 
 ---
 
