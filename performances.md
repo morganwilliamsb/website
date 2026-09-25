@@ -5,9 +5,6 @@ layout: page
 
 ## Coming Up
 
-12 September 2026
-: Performance of _Strumble Head_ by Luke Tyrrell @ St Anne's Church, Limehouse (UK). [Tickets](https://thamesfestivaltrust.org/whats-on/land-and-sea-on-six-strings-spanish-guitar-and-poetry-with-luke-tyrrell-26875/)
-
 23 January 2027
 : Performance of _ILDIO_ by Ensemble Musikfabrik (cond. Peter Rundel) @ WDR Köln (DE).
 
@@ -17,6 +14,10 @@ layout: page
 -------------------------------------------------------------------------------
 
 ## Previous
+
+12 September 2026
+: Performance of _Strumble Head_ by Luke Tyrrell @ St Anne's Church, Limehouse (UK).
+
 28 May 2026
 : Performance of _Gormod_ by Collegium Novum Zürich @ Brunnenhof Zürich (CH).
 
