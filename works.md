@@ -5,7 +5,7 @@ layout: page
 
 <div class="works-list" markdown="1">
 
-<details class="works-group" open markdown="1">
+<details class="works-group" markdown="1">
 <summary>Solo</summary>
 
 #### Whisht! *(2026)*
@@ -77,7 +77,7 @@ Duration: ca. 4′
 
 </details>
 
-<details class="works-group" open markdown="1">
+<details class="works-group" markdown="1">
 <summary>Chamber</summary>
 
 #### Trying to Use Words *(2025)*
@@ -198,7 +198,7 @@ Duration: ca. 2′
 
 </details>
 
-<details class="works-group" open markdown="1">
+<details class="works-group" markdown="1">
 <summary>Ensemble</summary>
 
 #### Digon! *(2025)*
@@ -233,7 +233,7 @@ Duration: ca. 12’
 
 </details>
 
-<details class="works-group" open markdown="1">
+<details class="works-group" markdown="1">
 <summary>Orchestra</summary>
 
 #### Parti Di-ffiniau *(2022)*
@@ -283,7 +283,7 @@ Duration: ca. 5’
 
 </details>
 
-<details class="works-group" open markdown="1">
+<details class="works-group" markdown="1">
 <summary>Vocal</summary>
 
 #### Shilly Shally *(2021)*
