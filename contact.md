@@ -18,7 +18,7 @@ Bethan’s scores are printed by **[PMBS Music Printing](https://www.musicprinti
 > “An exacting musician with very high standards and an exceptional ear. A pleasure to work with.”  
 > — **Hilary Browning**, Associate Principal Cello, Royal Liverpool Philharmonic Orchestra
 
-> “The great thing about working with Bethan is that she knows exactly what she wants.”  
+> “The great thing about working with Bethan is she knows exactly what she wants.”  
 > — **Paul Silverthorne**, former Principal Viola, London Sinfonietta; former Principal Viola, London Symphony Orchestra
 
 > “It’s a pleasure to work with somebody who knows their music so well and who is so attentive.”  
