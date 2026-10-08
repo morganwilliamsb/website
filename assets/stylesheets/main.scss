@@ -262,10 +262,9 @@
   color: var(--link-color, #b30000);
 }
 
-/* ===== Contact page circular photo ===== */
-
 /* ===== Contact page right-aligned portrait ===== */
 
+/* Desktop: retain the existing Contact-specific styling */
 .contact-photo-right {
   width: 24%;
   max-width: 170px;
@@ -274,34 +273,24 @@
   border-radius: 10px;
 }
 
-@media (max-width: 900px) {
-  .contact-photo-right {
-    float: none;
-    width: 100%;
-    max-width: 170px;
-    display: block;
-    margin: 0 auto 1.5rem auto;
-  }
-}
-
 /* ===== Consistent mobile image heights ===== */
 
 @media (max-width: 900px) {
+
+  /* Homepage and Biography header photographs */
   body.layout--home .intro-image img,
-  body.layout--about .intro-image img,
-  body.layout--page .page-content img.bio-portrait {
-    height: 55vw;
+  body.layout--about .intro-image img {
     width: 100%;
+    height: 55vw;
     object-fit: cover;
     object-position: center;
-    float: none;
   }
-}
 
-/* ===== Contact photograph: mobile only ===== */
+  /* Contact photograph using the bio-portrait class */
+  body.layout--page .page-content img.bio-portrait,
 
-@media (max-width: 900px) {
-  body.layout--page .page-content img.bio-portrait {
+  /* Contact photograph using the contact-photo-right class */
+  .contact-photo-right {
     display: block;
     float: none;
     width: 100%;
@@ -313,4 +302,3 @@
     border-radius: 0;
   }
 }
-
