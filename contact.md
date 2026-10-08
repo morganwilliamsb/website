@@ -1,12 +1,10 @@
 ---
 title: "Contact"
 layout: page
+image: /assets/images/wink.jpeg
 ---
 
-<img
-  src="/assets/images/wink.jpeg"
-  alt="Bethan Morgan-Williams portrait"
-  class="bio-portrait">
+<img src="/assets/images/wink.jpeg" alt="Bethan Morgan-Williams portrait" class="bio-portrait">
 
 For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
 
