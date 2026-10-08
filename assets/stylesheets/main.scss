@@ -15,14 +15,14 @@
     display: none;
   }
 
-  body.layout--about .page-content img.bio-portrait {
-    float: right;
-    width: 42%;
-    max-width: 380px;
-    margin: 0 0 1.25rem 1.5rem;
-    border-radius: 14px;
-    display: block;
-  }
+body.layout--about .page-content img.bio-portrait,
+body.layout--page .page-content img.bio-portrait {
+  float: right;
+  width: 42%;
+  max-width: 380px;
+  margin: 0 0 1.25rem 1.5rem;
+  border-radius: 14px;
+  display: block;
 }
 
 @media (max-width: 900px) {
