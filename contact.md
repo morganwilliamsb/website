@@ -1,6 +1,8 @@
+
 ---
 title: "Contact"
 layout: page
+image: /assets/images/wink.jpeg
 ---
 
 <img src="/assets/images/wink.jpeg" alt="Bethan Morgan-Williams portrait" class="bio-portrait">
