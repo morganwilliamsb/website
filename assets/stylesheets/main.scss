@@ -11,10 +11,9 @@
 
 /* ===== Biography and Contact portraits ===== */
 
-/* Desktop: hide header images and show right-aligned portraits */
+/* Desktop: portrait floats right with rounded corners */
 @media (min-width: 901px) {
-  body.layout--about .intro-image,
-  body.layout--page .intro-image {
+  body.layout--about .intro-image {
     display: none;
   }
 
@@ -30,18 +29,27 @@
   }
 }
 
-/* Mobile: use full-width header images */
+/* Mobile: Biography uses its header image;
+   Contact keeps its content photograph */
 @media (max-width: 900px) {
-  body.layout--about .page-content img.bio-portrait,
-  body.layout--page .page-content img.bio-portrait {
+  body.layout--about .page-content img.bio-portrait {
     display: none;
   }
 
-  body.layout--about .intro-image img,
-  body.layout--page .intro-image img {
-    display: block;
+  body.layout--about .intro-image img {
     width: 100%;
     height: auto;
+    display: block;
+  }
+
+  body.layout--page .page-content img.bio-portrait {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 0 1.25rem 0;
+    border-radius: 14px;
   }
 }
 
@@ -220,11 +228,11 @@
   a[href^="http"]:after {
     content: " (" attr(href) ")";
     font-size: 0.85em;
-    word-break: all;
+    word-break: break-all;
   }
   */
 
-  /* Don't print navigation / footer clutter if present */
+  /* Don’t print navigation / footer clutter if present */
   .site-header,
   .site-footer,
   .pagination,
