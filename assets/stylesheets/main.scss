@@ -298,10 +298,10 @@
   }
 }
 
-/* ===== Contact image: match mobile homepage dimensions ===== */
+/* ===== Contact photograph: mobile only ===== */
 
 @media (max-width: 900px) {
-  .contact-photo-right {
+  body.layout--page .page-content img.bio-portrait {
     display: block;
     float: none;
     width: 100%;
@@ -313,3 +313,4 @@
     border-radius: 0;
   }
 }
+
