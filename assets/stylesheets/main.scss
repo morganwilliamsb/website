@@ -297,3 +297,19 @@
     float: none;
   }
 }
+
+/* ===== Contact image: match mobile homepage dimensions ===== */
+
+@media (max-width: 900px) {
+  .contact-photo-right {
+    display: block;
+    float: none;
+    width: 100%;
+    max-width: none;
+    height: 55vw;
+    object-fit: cover;
+    object-position: center;
+    margin: 0 0 1.25rem 0;
+    border-radius: 0;
+  }
+}
