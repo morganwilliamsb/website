@@ -8,21 +8,22 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 @import "basically-basic";
 
-/* ===== Biography: header on mobile, portrait on desktop ===== */
+/* ===== Biography and Contact portraits ===== */
 
 @media (min-width: 901px) {
   body.layout--about .intro-image {
     display: none;
   }
 
-body.layout--about .page-content img.bio-portrait,
-body.layout--page .page-content img.bio-portrait {
-  float: right;
-  width: 42%;
-  max-width: 380px;
-  margin: 0 0 1.25rem 1.5rem;
-  border-radius: 14px;
-  display: block;
+  body.layout--about .page-content img.bio-portrait,
+  body.layout--page .page-content img.bio-portrait {
+    float: right;
+    width: 42%;
+    max-width: 380px;
+    margin: 0 0 1.25rem 1.5rem;
+    border-radius: 14px;
+    display: block;
+  }
 }
 
 @media (max-width: 900px) {
