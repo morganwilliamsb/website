@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 layout: page
-image: /assets/images/wink.jpeg
 ---
 
 <img
