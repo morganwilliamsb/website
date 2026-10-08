@@ -3,7 +3,7 @@ title: "Contact"
 layout: page
 ---
   
-  For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
+For score hire or purchase, commissions, collaborations, or general enquiries, please get in touch directly via email.
 
 <span style="color: var(--link-color, #DB4445);">
 **morganwilliamsbethan@gmail.com**
