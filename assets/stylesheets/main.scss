@@ -332,3 +332,11 @@
     border-radius: 14px;
   }
 }
+
+/* Biography landscape photo: rounded corners on desktop only */
+
+@media (min-width: 901px) {
+  body.layout--about .page-content img.bio-divider {
+    border-radius: 14px;
+  }
+}
