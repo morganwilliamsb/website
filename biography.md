@@ -33,4 +33,4 @@ Bethan started playing the violin when she was three years old, studying with th
 
 Bethan gained early recognition as a composer too, winning the Under-15 Composition class at the Urdd National Eisteddfod in 2004, and with string works performed at Wells, Colston Hall, the University of Bristol, and the Royal Northern College of Music in 2005/6.
 
-<img src="/assets/images/girl-and-dog-strip.jpeg" alt="Bethan with Oren in the Welsh countryside" class="bio-divider">
+<img src="/assets/images/girl-and-dog-full-size.jpeg" alt="Bethan with Oren in the Welsh countryside" class="bio-divider">
