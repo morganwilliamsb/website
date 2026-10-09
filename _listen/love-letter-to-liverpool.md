@@ -18,6 +18,6 @@ Bethan’s arrangement uses Nunn’s melody and Kelly’s text, while introducin
 Recorded by Jennifer Johnston (mezzo-soprano) and Alisdair Hogarth (piano) in May 2019.  
 All proceeds from the recording are donated equally to Alder Hey Children’s Charity and the Liverpool Philharmonic Youth Company.
 
-[Watch the performance](https://www.youtube.com/watch?v=qvislJEKr7Q)
+[Listen to the studio recording](https://www.youtube.com/watch?v=qvislJEKr7Q)
 
 *Photo credit: Helena Cooke*
