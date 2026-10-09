@@ -15,7 +15,7 @@ date: 2021-08-30
 > — Hannah Weirich (violin)
 
 **Performance / Recording**  
-Studio recording. Premiered on 30 August 2021.  
+Studio recording, 30 August 2021.
 Performed by Hannah Weirich (violin) and Ulrich Löffler (piano).  
 Video by Janet Sinica; editing by Jan Böyng; recording producer/editing by Julius Gass.
 
