@@ -15,6 +15,8 @@ layout: page
 
 ## Previous
 
+<img src="/assets/images/girl-thinking.jpeg" alt="Bethan Morgan-Williams" class="bio-portrait">
+
 12 September 2026
 : Performance of _Strumble Head_ by Luke Tyrrell @ St Anne's Church, Limehouse (UK).
 
