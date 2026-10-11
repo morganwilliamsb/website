@@ -103,7 +103,7 @@ Duration: ca. 11’
 #### Parodi i Dri *(2021)*
 **Clarinet in Bb, Violin, Piano**  
 Duration: ca. 5’30″
-: Commissioned by National Youth Arts Wales. First performance (virtual) on 21 October by Nathan Isaac, Nick Francis & Gwydion Rhys. 
+: Commissioned by National Youth Arts Wales. First performance (virtual) on 21 October 2021 by Nathan Isaac, Nick Francis & Gwydion Rhys. 
 
 #### Traces of a Disco *(rev. (2021))*
 **Alto Flute, Bass Clarinet in Bb, Vibraphone, Cello, Double Bass**  
