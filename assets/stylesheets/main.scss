@@ -340,3 +340,11 @@
     border-radius: 14px;
   }
 }
+
+/* ===== Performances photograph: desktop rounded corners ===== */
+
+@media (min-width: 901px) {
+  .page-content img.performances-photo {
+    border-radius: 14px;
+  }
+}
