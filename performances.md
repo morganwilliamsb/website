@@ -11,7 +11,7 @@ layout: page
 22 February 2027
 : A Chamber Portrait – Music by Bethan Morgan-Williams, performed by members of Ensemble Musikfabrik (cond. Christian Eggen) @ Studio des Ensemble Musikfabrik, Köln (DE).
 
--------------------------------------------------------------------------------
+<img src="/assets/images/piano-hands.jpeg" alt="Hands playing the piano" class="performances-photo">
 
 ## Previous
 
