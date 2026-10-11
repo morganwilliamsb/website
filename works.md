@@ -3,6 +3,8 @@ title: "List of Works"
 layout: page
 ---
 
+<img src="/assets/images/girl-thinking.jpeg" alt="Bethan Morgan-Williams" class="works-photo">
+
 <div class="works-list" markdown="1">
 
 <details class="works-group" markdown="1">
