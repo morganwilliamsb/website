@@ -15,8 +15,6 @@ layout: page
 
 ## Previous
 
-<img src="/assets/images/girl-thinking.jpeg" alt="Bethan Morgan-Williams" class="bio-portrait">
-
 12 September 2026
 : Performance of _Strumble Head_ by Luke Tyrrell @ St Anne's Church, Limehouse (UK).
 
@@ -245,6 +243,8 @@ January 2025
 29 September 2019
 : Premiere of _arr. Liverpool Lullaby_ by Jennifer Johnston & Marina Staneva @ Music Room, Liverpool (UK).
 
+<img src="/assets/images/piano-hands.jpeg" alt="Hands playing the piano" class="performances-photo">
+
 5 June 2019
 : Performance of _In Kenopsia_ by Mattia Petrogalli & Bethan Morgan-Williams @ Korzo Theatre, Den Haag (NL).
 
@@ -367,5 +367,3 @@ March 2015-March 2016
 
 30 November 2012
 : World premiere of _A Beautiful Dance With A Chainsaw_ by Vulgar Display @ Carole Nash Hall, Manchester (UK).
-
-<img src="/assets/images/piano-hands.jpeg" alt="Hands playing the piano" class="performances-photo">
