@@ -341,13 +341,33 @@
   }
 }
 
-/* Works photograph: rounded corners on desktop only */
+
+/* ===== Works photograph: desktop ===== */
 
 @media (min-width: 901px) {
+  body.layout--page:has(.works-list) .intro-image {
+    display: none;
+  }
+
   .page-content img.works-photo {
+    display: block;
+    float: right;
+    width: 42%;
+    max-width: 380px;
+    height: auto;
+    margin: 0 0 1.25rem 1.5rem;
     border-radius: 14px;
   }
 }
+
+/* ===== Works photograph: mobile ===== */
+
+@media (max-width: 900px) {
+  body.layout--page .page-content img.works-photo {
+    display: none;
+  }
+}
+
 
 /* ===== Performances photograph: desktop rounded corners ===== */
 
