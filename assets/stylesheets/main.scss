@@ -341,18 +341,18 @@
   }
 }
 
-/* ===== Performances photograph: desktop rounded corners ===== */
+/* Works photograph: rounded corners on desktop only */
 
 @media (min-width: 901px) {
-  .page-content img.performances-photo {
+  .page-content img.works-photo {
     border-radius: 14px;
   }
 }
 
-/* ===== Works photograph: desktop rounded corners ===== */
+/* ===== Performances photograph: desktop rounded corners ===== */
 
 @media (min-width: 901px) {
-  .page-content img.works-photo {
+  .page-content img.performances-photo {
     border-radius: 14px;
   }
 }
