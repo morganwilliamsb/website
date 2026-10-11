@@ -1,6 +1,7 @@
 ---
 title: "List of Works"
 layout: page
+image: /assets/images/girl-thinking.jpeg
 ---
 
 <img src="/assets/images/girl-thinking.jpeg" alt="Bethan Morgan-Williams" class="works-photo">
