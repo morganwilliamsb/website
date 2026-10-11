@@ -204,7 +204,7 @@ Duration: ca. 2′
 #### Digon! *(2025)*
 **Flute, Oboe, Soprano Saxophone, Bass Clarinet in Bb, Drum-kit, Piano (=Sampler), Violin, Viola, Cello**  
 Duration: ca. 15'
-: A Saunders commission for ensemble mosaik. First performance 17 January 2026 by ensemble mosaik (cond. Enno Poppe) @ Ultraschall – Radialsystem (Berlin, DE). 
+: A Saunders commission for ensemble mosaik. First performance 17 January 2026 by ensemble mosaik (cond. Max Murray) @ Ultraschall – Radialsystem (Berlin, DE). 
 
 #### ILDIO *(2025)*
 **Piccolo, Oboe, Bass Clarinet in Bb, Bassoon, Trumpet (=Marching Kazoo), Trombone (=Slide Whistle), Piano, Harp (=Voice), Violin, Viola, Cello, Double Bass**  
