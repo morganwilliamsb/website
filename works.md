@@ -10,7 +10,7 @@ layout: page
 
 #### Whisht! *(2026)*
 **Flute**  
-Duration: ca. 9’
+Duration: ca. 10’
 : Co-composed with Richard Craig. 
 : Commissioned by Bangor Music Festival. First performance 15 February 2026 by Richard Craig @ Pontio Bangor (Bangor, UK).
 
@@ -36,7 +36,7 @@ Duration: ca. 8′
 
 #### Gêmdisyn *(2020)*
 **Clarinet in Eb**  
-Duration: ca. 9′
+Duration: ca. 10′30"
 : Commissioned by Ensemble Musikfabrik. First performance 7 August 2021 by Carl Rosman, Darmstadt Ferienkurse – Lichtenbergschule (Darmstadt, DE). 
 
 #### One, Two, Bakerloo… *(2020)*
@@ -82,7 +82,7 @@ Duration: ca. 4′
 
 #### Trying to Use Words *(2025)*
 **Singing Harpist & Dancer**  
-Duration: ca. 9’
+Duration: ca. 10’
 : Commissioned by Jenna Vergeynst. First performance 25 April 2025 by Jenna Vergeynst & Myrthe Bokelmann @ De Graaf (Ghent, BE).
 
 #### Gormod *(2024)*
