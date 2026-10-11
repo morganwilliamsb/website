@@ -3,8 +3,6 @@ title: "Performances"
 layout: page
 ---
 
-<img src="/assets/images/piano-hands.jpeg" alt="Hands playing the piano" class="performances-photo">
-
 ## Coming Up
 
 23 January 2027
@@ -367,3 +365,5 @@ March 2015-March 2016
 
 30 November 2012
 : World premiere of _A Beautiful Dance With A Chainsaw_ by Vulgar Display @ Carole Nash Hall, Manchester (UK).
+
+<img src="/assets/images/piano-hands.jpeg" alt="Hands playing the piano" class="performances-photo">
