@@ -348,3 +348,11 @@
     border-radius: 14px;
   }
 }
+
+/* ===== Works photograph: desktop rounded corners ===== */
+
+@media (min-width: 901px) {
+  .page-content img.works-photo {
+    border-radius: 14px;
+  }
+}
