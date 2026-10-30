@@ -5,10 +5,12 @@ layout: page
 permalink: /manifesto/
 ---
 
-<img
-  src="{{ '/assets/images/girl-thinking.jpg' | relative_url }}"
-  alt="Bethan Morgan-Williams in thought, looking up from a notebook."
->
+<figure class="manifesto-image">
+  <img
+    src="{{ '/assets/images/girl-thinking.jpeg' | relative_url }}"
+    alt="Bethan Morgan-Williams looking thoughtfully into the distance over her notebook"
+  >
+</figure>
 
 <div class="manifesto">
 
