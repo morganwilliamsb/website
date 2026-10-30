@@ -5,6 +5,11 @@ layout: page
 permalink: /manifesto/
 ---
 
+<img
+  src="{{ '/assets/images/girl-thinking.jpg' | relative_url }}"
+  alt="Bethan Morgan-Williams in thought, looking up from a notebook."
+>
+
 <div class="manifesto">
 
   <details class="works-group manifesto-part">
