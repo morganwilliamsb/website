@@ -51,6 +51,7 @@ google_fonts:
 navigation_pages:
   - biography.md
   - works.md
+  – manifesto.md
   - listen.md
   - performances.md
   - contact.md
