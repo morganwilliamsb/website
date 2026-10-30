@@ -174,7 +174,7 @@ Duration: ca. 5′
 #### A Beautiful Dance With A Chainsaw *(2012)*
 **2 Drum-kits, Piano, Electric Guitar, Violin, Cello**  
 Duration: ca. 7′
-: First performance 30 November 2012 by the Vulgar Display @ Royal Northern College of Music (Manchester, UK). 
+: First performance 30 November 2012 by Vulgar Display @ Royal Northern College of Music (Manchester, UK). 
 
 #### News Bulletins *(2012)*
 **Piano Trio**  
