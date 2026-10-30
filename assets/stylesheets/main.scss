@@ -348,3 +348,75 @@
     border-radius: 14px;
   }
 }
+
+
+/* ===== Manifesto: collapsible parts and chapters ===== */
+
+.manifesto {
+  margin-top: 2rem;
+}
+
+/* Main parts */
+.manifesto .manifesto-part {
+  margin: 2.5rem 0;
+  padding-top: 1.2rem;
+  border-top: 2px solid #e5e5e5;
+}
+
+.manifesto .manifesto-part > summary {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+/* Part introductions remain visible when collapsed */
+.manifesto .manifesto-intro {
+  display: block;
+  margin-top: 0.8rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: normal;
+  color: inherit;
+}
+
+/* Space before chapter list */
+.manifesto .manifesto-chapters {
+  margin-top: 1.5rem;
+}
+
+/* Individual chapters */
+.manifesto .manifesto-chapter {
+  margin: 1.25rem 0;
+  padding-top: 0.8rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.manifesto .manifesto-chapter > summary {
+  font-size: 1.2rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.5;
+}
+
+/* Chapter text */
+.manifesto .manifesto-text {
+  margin-top: 1.2rem;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.manifesto .manifesto-text p {
+  margin: 0 0 1.2rem;
+}
+
+/* Mobile adjustments */
+@media (max-width: 900px) {
+  .manifesto .manifesto-part > summary {
+    font-size: 1.45rem;
+  }
+
+  .manifesto .manifesto-chapter > summary {
+    font-size: 1.15rem;
+  }
+}
